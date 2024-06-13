@@ -284,7 +284,7 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Picadera Mariposa",
+        "name" : "Picadera Mariposa Especial",
         "price" : "1500",
         "category" : "Entrantes",
         "description" : "Picadera de la casa ( Fritas, fajitas de pollo, croquetas, jamon, queso, chorizo, salchicha, aceituna, salsas..",
