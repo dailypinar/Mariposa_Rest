@@ -1,0 +1,13 @@
+.order-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:240px;
+    width:100%;
+    padding:35px;
+    box-shadow: 0 5px 57px 23px rgb(0 0 0 / 20%) inset;
+    background-color:var(--var-secundario);
+
+}
+
+

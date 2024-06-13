@@ -1,0 +1,15 @@
+.BgImage {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: calc(300px + 15vw);
+    width:100%;
+    object-fit: cover;
+    background-image: url('../Franja/franja-image.png');
+}
+
+@media screen and (max-width:700px){
+    .BgImage{
+        background-image:url('../Franja/pablo-pacheco-D3Mag4BKqns-unsplash.jpg')
+    }
+}

@@ -1,0 +1,10 @@
+.cart-icon{
+    color:var(--var-secundario);
+    font-size: 3em;
+}
+.cart{
+    display:flex;
+    align-items: center;
+    justify-content: end;
+    padding-right: 20%;
+}

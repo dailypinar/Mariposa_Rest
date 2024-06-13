@@ -1,0 +1,236 @@
+[
+    {
+        "name" : "Agua natural",
+        "price" : "300",
+        "category" : "Bebidas",
+        "description" : "Botella de agua natural de 1500ml",
+        "imageUrl" : "../../../Resources/Products/agua-1500ml.jpg",
+        "id" : 1
+    },
+    {
+        "name" : "Agua natural",
+        "price" : "150",
+        "category" : "Bebidas",
+        "description" : "Botella de agua natural de 500ml",
+        "imageUrl" : "../../../Resources/Products/agual-500ml.jpg",
+        "id" : 2
+    },
+    {
+        "name" : "Batido de frutas",
+        "price" : "280",
+        "category" : "Bebidas",
+        "description" : "Batido de frutas naturales",
+        "imageUrl" : "../../../Resources/Products/batido-fruta.jpg",
+        "id" : 3
+    },
+    {
+        "name" : "Batido de helado",
+        "price" : "500",
+        "category" : "Bebidas",
+        "description" : "Batido de Helado",
+        "imageUrl" : "../../../Resources/Products/batido-helado.jpeg",
+        "id" : 4
+    },
+    {
+        "name" : "Batido de helado con panetela",
+        "price" : "580",
+        "category" : "Bebidas",
+        "description" : "Batido de helado con panetela",
+        "imageUrl" : "../../../Resources/Products/batido-helado-panetela.jpeg"
+        ,"id":5
+    },
+    {
+        "name" : "Bebida Energizante",
+        "price" : "300",
+        "category" : "Bebidas",
+        "description" : "Bebidas energizantes",
+        "imageUrl" : "../../../Resources/Products/energizante.jpg",
+        "id": 6
+    },
+    {
+        "name" : "Malteada con coca-cola",
+        "price" : "420",
+        "category" : "Bebidas",
+        "description" : "Coca Cola con leche condensada",
+        "imageUrl" : "../../../Resources/Products/coca-cola-leche.jpg",
+        "id":7
+    },
+    {
+        "name" : "Malta Importada",
+        "price" : "320",
+        "category" : "Bebidas",
+        "description" : "Malta importada",
+        "imageUrl" : "../../../Resources/Products/malta_import.jpg",
+        "id" : 8
+    },
+    {
+        "name" : "Malteada",
+        "price" : "420",
+        "category" : "Bebidas",
+        "description" : "Malteda",
+        "imageUrl" : "../../../Resources/Products/malteada.jpg",
+        "id" : 9
+    },
+    {
+        "name" : "Refrescos Nacionales",
+        "price" : "250",
+        "category" : "Bebidas",
+        "description" : "Refrescos de produccion nacional",
+        "imageUrl" : "../../../Resources/Products/agual-500ml.jpg",
+        "id" : 10
+    },
+    {
+        "name" : "Limonada",
+        "price" : "200",
+        "category" : "Bebidas",
+        "description" : "Limonada Natural",
+        "imageUrl" : "../../../Resources/Products/limonada.jpg",
+        "id":11
+    },
+    {
+        "name" : "Cerveza Importada",
+        "price" : "260",
+        "category" : "Cocteles",
+        "description" : "Cervezas importadas",
+        "imageUrl" : "../../../Resources/Products/cerveza-importada.jpg",
+        "id" : 12
+    },
+    {
+        "name" : "Cerveza Nacional",
+        "price" : "300",
+        "category" : "Cocteles",
+        "description" : "Cervezas Nacionales",
+        "imageUrl" : "../../../Resources/Products/cervezas-nacionales",
+        "id" : 13
+    },
+    {
+        "name" : "Chelada",
+        "price" : "400",
+        "category" : "Cocteles",
+        "description" : "Chelada con cerveza nacional",
+        "imageUrl" : "../../../Resources/Products/chelada-nacional.jpg",
+        "id":14
+    },
+    {
+        "name" : "Michelada",
+        "price" : "550",
+        "category" : "Cocteles",
+        "description" : "Michelada con cerveza nacional",
+        "imageUrl" : "../../../Resources/Products/michelada-con-cerveza-nacional.jpg",
+        "id":15
+    },
+    {
+        "name" : "Colada sin alcohol",
+        "price" : "340",
+        "category" : "Cocteles",
+        "description" : "Colada sin alcohol",
+        "imageUrl" : "../../../Resources/Products/pina-colada-sin-alcohol.jpg",
+        "id":16
+    },
+    {
+        "name" : "Trago Mariposa",
+        "price" : "350",
+        "category" : "Cocteles",
+        "description" : "Trago Mariposa ( Especial de la casa) ",
+        "imageUrl" : "../../../Resources/Products/trago-mariposa.jpg",
+        "id": 17
+    },
+    {
+        "name" : "Cafe Espreso",
+        "price" : "120",
+        "category" : "Infusiones-Cafe",
+        "description" : "Cafe Espreso",
+        "imageUrl" : "../../../Resources/Products/cafe-espreso.jpg",
+        "id" : 18
+    },
+    {
+        "name" : "Cafe Cortado",
+        "price" : "160",
+        "category" : "Infusiones-Cafe",
+        "description" : "Cafe Cortado",
+        "imageUrl" : "../../../Resources/Products/cafe-cortado.jpg",
+        "id":19
+    }
+    ,
+    {
+        "name" : "Cafe Bombom",
+        "price" : "250",
+        "category" : "Infusiones-Cafe",
+        "description" : "Cafe Bombom",
+        "imageUrl" : "../../../Resources/Products/cafe-bombon.jpg",
+        "id":20
+    }
+    ,
+    {
+        "name" : "Malangas fritas",
+        "price" : "300",
+        "category" : "Entrantes",
+        "description" : "Racion de Malangas fritas",
+        "imageUrl" : "../../../Resources/Products/malangas-fritas.jpg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Chicharritas",
+        "price" : "180",
+        "category" : "Entrantes",
+        "description" : "Chicharritas de platano",
+        "imageUrl" : "../../../Resources/Products/chicharritas.jpg",
+        "id":22
+    }
+    ,
+    {
+        "name" : "Croquetas",
+        "price" : "300",
+        "category" : "Entrantes",
+        "description" : "Croquetas de la casa",
+        "imageUrl" : "../../../Resources/Products/croquetas.jpg",
+        "id":23
+    }
+    ,
+    {
+        "name" : "Tostones de jamon y queso",
+        "price" : "350",
+        "category" : "Entrantes",
+        "description" : "Tostones de Jamon y queso",
+        "imageUrl" : "../../../Resources/Products/tostones-jamon-queso.jpg",
+        "id":24
+    }
+    ,
+    {
+        "name" : "Crema de queso",
+        "price" : "600",
+        "category" : "Entrantes",
+        "description" : "Crema de queso",
+        "imageUrl" : "../../../Resources/Products/crema-queso.jpg",
+        "id":25
+    }
+    ,
+    {
+        "name" : "Crema de jamon y queso",
+        "price" : "700",
+        "category" : "Entrantes",
+        "description" : "Crema de jamon y queso",
+        "imageUrl" : "../../../Resources/Products/crema-jamon-queso.jpg",
+        "id":26
+    }
+    ,
+    {
+        "name" : "Picadera Mariposa",
+        "price" : "1500",
+        "category" : "Entrantes",
+        "description" : "Picadera de la casa ( Fritas, fajitas de pollo, croquetas, jamon, queso, chorizo, salchicha, aceituna, salsas..",
+        "imageUrl" : "../../../Resources/Products/picadera-mariposa.jpg",
+        "id":27
+    }
+        ,
+    {
+        "name" : "Picadera Mariposa Especial",
+        "price" : "1500",
+        "category" : "Entrantes",
+        "description" : "Picadera de la casa ( Fritas, fajitas de pollo, croquetas, jamon, queso, chorizo, salchicha, aceituna, salsas..",
+        "imageUrl" : "../../../Resources/Products/joyeria.jpg",
+        "id":27
+    }
+
+]
