@@ -266,7 +266,7 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Crema de queso",
+        "name" : "Crema de queso Especial",
         "price" : "600",
         "category" : "Entrantes",
         "description" : "Crema de queso",
