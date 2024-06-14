@@ -112,7 +112,7 @@ const jsonArray = [
         "price" : "270",
         "category" : "Bebidas",
         "description" : "Jugo importado(caja)",
-        "imageUrl" : "Sinimagen.png"
+        "imageUrl" : "logomariposa.png"
         ,"id":5
     },
     {
@@ -120,7 +120,7 @@ const jsonArray = [
         "price" : "320",
         "category" : "Bebidas",
         "description" : "Jugo importado(lata)",
-        "imageUrl" : "Sinimagen.png"
+        "imageUrl" : "logomariposa.png"
         ,"id":5
     },
     {
@@ -160,7 +160,7 @@ const jsonArray = [
         "price" : "270",
         "category" : "Bebidas",
         "description" : "Refrescos de produccion nacional",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id" : 10
     },
     {
@@ -168,7 +168,7 @@ const jsonArray = [
         "price" : "470",
         "category" : "Bebidas",
         "description" : "Malta Bucanero",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id" : 10
     },
     {
@@ -192,7 +192,7 @@ const jsonArray = [
         "price" : "320",
         "category" : "Cocteles",
         "description" : "Cervezas Nacionales",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id" : 13
     },
     {
@@ -223,8 +223,8 @@ const jsonArray = [
         "name" : "Michelada con Cerveza Importada",
         "price" : "500",
         "category" : "Cocteles",
-        "description" : "Sinimagen.png",
-        "imageUrl" : "Sinimagen.png",
+        "description" : "logomariposa.png",
+        "imageUrl" : "logomariposa.png",
         "id":15
     },
     {
@@ -265,7 +265,7 @@ const jsonArray = [
         "price" : "320",
         "category" : "Cocteles",
         "description" : "Mojito",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":16
     },
     {
@@ -273,7 +273,7 @@ const jsonArray = [
         "price" : "400",
         "category" : "Cocteles",
         "description" : "Cuba Libre",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":16
     },
     {
@@ -307,7 +307,7 @@ const jsonArray = [
         "price" : "250",
         "category" : "Infusiones-Cafe",
         "description" : "Café Frapucciono ",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":20
     }
     ,
@@ -316,7 +316,7 @@ const jsonArray = [
         "price" : "390",
         "category" : "Infusiones-Cafe",
         "description" : "Café Mariposa",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":20
     }
     ,
@@ -325,7 +325,7 @@ const jsonArray = [
         "price" : "100",
         "category" : "Infusiones-Cafe",
         "description" : "Te",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":20
     }
     ,
@@ -334,7 +334,7 @@ const jsonArray = [
         "price" : "430",
         "category" : "Entrantes",
         "description" : "Racion de Aceitunas",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -343,7 +343,7 @@ const jsonArray = [
         "price" : "650",
         "category" : "Entrantes",
         "description" : "Entremes de Queso",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -352,7 +352,7 @@ const jsonArray = [
         "price" : "400",
         "category" : "Entrantes",
         "description" : "Entremes de Jamón",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -370,7 +370,7 @@ const jsonArray = [
         "price" : "150",
         "category" : "Entrantes",
         "description" : "Boniatos Fritos",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -397,7 +397,7 @@ const jsonArray = [
         "price" : "400",
         "category" : "Entrantes",
         "description" : "Tostones de Queso",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -406,7 +406,7 @@ const jsonArray = [
         "price" : "270",
         "category" : "Entrantes",
         "description" : "Tostones de Jamón",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -451,7 +451,7 @@ const jsonArray = [
         "price" : "450",
         "category" : "Entrantes",
         "description" : "Tostones de Atún",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -460,7 +460,7 @@ const jsonArray = [
         "price" : "300",
         "category" : "Entrantes",
         "description" : "Empanaditas",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -469,7 +469,7 @@ const jsonArray = [
         "price" : "500",
         "category" : "Entrantes",
         "description" : "Ensalada Fría",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -478,7 +478,7 @@ const jsonArray = [
         "price" : "450",
         "category" : "Entrantes",
         "description" : "Papas Bravas",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -487,7 +487,7 @@ const jsonArray = [
         "price" : "750",
         "category" : "Entrantes",
         "description" : "Fajitas de Pollo",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -496,7 +496,7 @@ const jsonArray = [
         "price" : "600",
         "category" : "Entrantes",
         "description" : "Papas Fritas",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -505,7 +505,7 @@ const jsonArray = [
         "price" : "600",
         "category" : "Entrantes",
         "description" : "Papas Fritas",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -514,7 +514,7 @@ const jsonArray = [
         "price" : "400",
         "category" : "Desayunos",
         "description" : "Desayuno Mariposa",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -523,7 +523,7 @@ const jsonArray = [
         "price" : "400",
         "category" : "Desayunos",
         "description" : "Creps Mariposa",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -532,7 +532,7 @@ const jsonArray = [
         "price" : "150",
         "category" : "Desayunos",
         "description" : "Yogurt Natural",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -613,7 +613,7 @@ const jsonArray = [
         "price" : "800",
         "category" : "Pizzas",
         "description" : "Pizza de carne de res",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -622,7 +622,7 @@ const jsonArray = [
         "price" : "800",
         "category" : "Pizzas",
         "description" : "Pizza de carne de res",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -640,7 +640,7 @@ const jsonArray = [
         "price" : "680",
         "category" : "Pizzas",
         "description" : "Pizza de Jamón Pierna",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -649,7 +649,7 @@ const jsonArray = [
         "price" : "700",
         "category" : "Pizzas",
         "description" : "Pizza de Pollo",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -658,7 +658,7 @@ const jsonArray = [
         "price" : "450",
         "category" : "Pizzas",
         "description" : "Pizza de Vegetales ",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -667,7 +667,7 @@ const jsonArray = [
         "price" : "700",
         "category" : "Pizzas",
         "description" : "Pizza de Atún",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -676,7 +676,7 @@ const jsonArray = [
         "price" : "750",
         "category" : "Pizzas",
         "description" : "Pizza de Cerdo",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -685,7 +685,7 @@ const jsonArray = [
         "price" : "1170",
         "category" : "Pizzas",
         "description" : "Pizza de Ropa Vieja ",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -694,7 +694,7 @@ const jsonArray = [
         "price" : "500",
         "category" : "Pizzas",
         "description" : "Pizza con Piña",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -712,7 +712,7 @@ const jsonArray = [
         "price" : "2500",
         "category" : "Pizzas",
         "description" : "Pizza Familiar",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -721,7 +721,7 @@ const jsonArray = [
         "price" : "1000",
         "category" : "Pizzas",
         "description" : "Spaguettis Napolitano",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -730,7 +730,7 @@ const jsonArray = [
         "price" : "1100",
         "category" : "Pizzas",
         "description" : "Spaguettis con Jamón",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -739,7 +739,7 @@ const jsonArray = [
         "price" : "1100",
         "category" : "Pizzas",
         "description" : "Spaguettis con Salchichas",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -748,7 +748,7 @@ const jsonArray = [
         "price" : "950",
         "category" : "Pizzas",
         "description" : "Spaguettis con Chorizos",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -757,7 +757,7 @@ const jsonArray = [
         "price" : "1700",
         "category" : "Pizzas",
         "description" : "Spaguettis con Ropa Vieja",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -766,7 +766,7 @@ const jsonArray = [
         "price" : "400",
         "category" : "Hamburguesas",
         "description" : "Hamburguesa Sencilla",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -775,7 +775,7 @@ const jsonArray = [
         "price" : "550",
         "category" : "Hamburguesas",
         "description" : "Hamburguesa con queso",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -784,7 +784,7 @@ const jsonArray = [
         "price" : "550",
         "category" : "Hamburguesas",
         "description" : "Hamburguesa con queso",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -793,7 +793,7 @@ const jsonArray = [
         "price" : "520",
         "category" : "Hamburguesas",
         "description" : "Hamburguesa con Jamón",
-        "imageUrl" : "Sinimagen.png",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
