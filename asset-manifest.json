@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mariposa_Rest/static/css/main.352d8b22.css",
-    "main.js": "/Mariposa_Rest/static/js/main.c9af141d.js",
+    "main.js": "/Mariposa_Rest/static/js/main.ee7a40ab.js",
     "static/media/pablo-pacheco-D3Mag4BKqns-unsplash.jpg": "/Mariposa_Rest/static/media/pablo-pacheco-D3Mag4BKqns-unsplash.3cfe1d77fd42b9884982.jpg",
     "static/media/franja-image.png": "/Mariposa_Rest/static/media/franja-image.b135b5321640d48faa71.png",
     "static/media/image-2.jpeg": "/Mariposa_Rest/static/media/image-2.6d4c21df572dcc052941.jpeg",
@@ -58,6 +58,7 @@
     "static/media/pizza-cebolla.jpeg": "/Mariposa_Rest/static/media/pizza-cebolla.beb26d8f9be5175dd077.jpeg",
     "static/media/chelada-nacional.jpg": "/Mariposa_Rest/static/media/chelada-nacional.b2b05de8d4582072997d.jpg",
     "static/media/joyeria.jpeg": "/Mariposa_Rest/static/media/joyeria.7dcb050b261c99b0ce82.jpeg",
+    "static/media/logomariposa.png": "/Mariposa_Rest/static/media/logomariposa.f96756dfc12b9e0ce7d6.png",
     "static/media/croquetas.jpeg": "/Mariposa_Rest/static/media/croquetas.40a3f9104d904cb8fea9.jpeg",
     "static/media/m-Frappuccino.avif": "/Mariposa_Rest/static/media/m-Frappuccino.284a532651fd56db4d8d.avif",
     "static/media/infusiones-te.jpg": "/Mariposa_Rest/static/media/infusiones-te.de26abded5601388cd7f.jpg",
@@ -76,10 +77,10 @@
     "static/media/sandwich-jamon.jpg": "/Mariposa_Rest/static/media/sandwich-jamon.3fe36edf5bf2b34c1c3a.jpg",
     "index.html": "/Mariposa_Rest/index.html",
     "main.352d8b22.css.map": "/Mariposa_Rest/static/css/main.352d8b22.css.map",
-    "main.c9af141d.js.map": "/Mariposa_Rest/static/js/main.c9af141d.js.map"
+    "main.ee7a40ab.js.map": "/Mariposa_Rest/static/js/main.ee7a40ab.js.map"
   },
   "entrypoints": [
     "static/css/main.352d8b22.css",
-    "static/js/main.c9af141d.js"
+    "static/js/main.ee7a40ab.js"
   ]
 }
