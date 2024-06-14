@@ -879,9 +879,97 @@ const jsonArray = [
         "imageUrl" : "tacos-res.png",
         "id":21
     }
+    ,
+    {
+        "name" : "Creps de nutela",
+        "price" : "300",
+        "category" : "Postres",
+        "description" : "Creps de nutela",
+        "imageUrl" : "crepes-nutella.jpg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Dulce mariposa",
+        "price" : "350",
+        "category" : "Postres",
+        "description" : "Dulce mariposa",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Helado",
+        "price" : "500",
+        "category" : "Postres",
+        "description" : "Helado",
+        "imageUrl" : "helado-mariposa.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Dulce Mariposa con Helado",
+        "price" : "600",
+        "category" : "Postres",
+        "description" : "Dulce Mariposa con Helado",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Creps de Leche",
+        "price" : "250",
+        "category" : "Postres",
+        "description" : "Creps de Leche",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Creps de Chocolate",
+        "price" : "300",
+        "category" : "Postres",
+        "description" : "Creps de Chocolate",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Creps de Miel",
+        "price" : "200",
+        "category" : "Postres",
+        "description" : "Creps de Miel",
+        "imageUrl" : "creps-miel.jpg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Flancia",
+        "price" : "800",
+        "category" : "Postres",
+        "description" : "Flancia",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Borugas de Leche",
+        "price" : "400",
+        "category" : "Postres",
+        "description" : "Borugas de Leche",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Dona",
+        "price" : "150",
+        "category" : "Postres",
+        "description" : "Dona",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
 
-
-
-   
+  
 
 ]
