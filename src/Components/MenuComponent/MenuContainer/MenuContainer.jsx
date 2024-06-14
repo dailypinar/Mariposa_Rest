@@ -617,15 +617,7 @@ const jsonArray = [
         "id":21
     }
     ,
-    {
-        "name" : "Pizza de carne de res",
-        "price" : "800",
-        "category" : "Pizzas",
-        "description" : "Pizza de carne de res",
-        "imageUrl" : "logomariposa.png",
-        "id":21
-    }
-    ,
+    
     {
         "name" : "Pizza Especial de Queso",
         "price" : "600",
