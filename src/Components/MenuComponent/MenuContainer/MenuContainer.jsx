@@ -85,7 +85,7 @@ const jsonArray = [
     },
     {
         "name" : "Batido de frutas",
-        "price" : "280",
+        "price" : "300",
         "category" : "Bebidas",
         "description" : "Batido de frutas naturales",
         "imageUrl" : "batido-fruta.jpg",
@@ -93,31 +93,47 @@ const jsonArray = [
     },
     {
         "name" : "Batido de helado",
-        "price" : "500",
+        "price" : "550",
         "category" : "Bebidas",
         "description" : "Batido de Helado",
         "imageUrl" : "batido-helado.jpeg",
         "id" : 4
     },
     {
-        "name" : "Batido de helado con panetela",
-        "price" : "580",
+        "name" : "Batido de helado con panetela Chocolate",
+        "price" : "600",
         "category" : "Bebidas",
         "description" : "Batido de helado con panetela",
         "imageUrl" : "batido-helado-panetela.jpeg"
         ,"id":5
     },
     {
+        "name" : "Jugo importado(caja)",
+        "price" : "270",
+        "category" : "Bebidas",
+        "description" : "Jugo importado(caja)",
+        "imageUrl" : "Sinimagen.png"
+        ,"id":5
+    },
+    {
+        "name" : "Jugo importado(lata)",
+        "price" : "320",
+        "category" : "Bebidas",
+        "description" : "Jugo importado(lata)",
+        "imageUrl" : "Sinimagen.png"
+        ,"id":5
+    },
+    {
         "name" : "Bebida Energizante",
-        "price" : "300",
+        "price" : "320",
         "category" : "Bebidas",
         "description" : "Bebidas energizantes",
         "imageUrl" : "energizante.jpg",
         "id": 6
     },
     {
-        "name" : "Malteada con coca-cola",
-        "price" : "420",
+        "name" : "Coca-cola con leche condensada",
+        "price" : "450",
         "category" : "Bebidas",
         "description" : "Coca Cola con leche condensada",
         "imageUrl" : "coca-cola-leche.jpg",
@@ -125,7 +141,7 @@ const jsonArray = [
     },
     {
         "name" : "Malta Importada",
-        "price" : "320",
+        "price" : "350",
         "category" : "Bebidas",
         "description" : "Malta importada",
         "imageUrl" : "malta_import.jpg",
@@ -133,7 +149,7 @@ const jsonArray = [
     },
     {
         "name" : "Malteada",
-        "price" : "420",
+        "price" : "470",
         "category" : "Bebidas",
         "description" : "Malteda",
         "imageUrl" : "malteada.jpg",
@@ -141,10 +157,18 @@ const jsonArray = [
     },
     {
         "name" : "Refrescos Nacionales",
-        "price" : "250",
+        "price" : "270",
         "category" : "Bebidas",
         "description" : "Refrescos de produccion nacional",
-        "imageUrl" : "agual-500ml.jpg",
+        "imageUrl" : "Sinimagen.png",
+        "id" : 10
+    },
+    {
+        "name" : "Malta Bucanero",
+        "price" : "470",
+        "category" : "Bebidas",
+        "description" : "Malta Bucanero",
+        "imageUrl" : "Sinimagen.png",
         "id" : 10
     },
     {
@@ -157,7 +181,7 @@ const jsonArray = [
     },
     {
         "name" : "Cerveza Importada",
-        "price" : "260",
+        "price" : "300",
         "category" : "Cocteles",
         "description" : "Cervezas importadas",
         "imageUrl" : "cerveza-importada.jpg",
@@ -165,14 +189,22 @@ const jsonArray = [
     },
     {
         "name" : "Cerveza Nacional",
-        "price" : "300",
+        "price" : "320",
+        "category" : "Cocteles",
+        "description" : "Cervezas Nacionales",
+        "imageUrl" : "Sinimagen.png",
+        "id" : 13
+    },
+    {
+        "name" : "Cerveza Cristal y Bucanero ",
+        "price" : "380",
         "category" : "Cocteles",
         "description" : "Cervezas Nacionales",
         "imageUrl" : "cervezas-nacionales.jpg",
         "id" : 13
     },
     {
-        "name" : "Chelada",
+        "name" : "Chelada con Cerveza Importada",
         "price" : "400",
         "category" : "Cocteles",
         "description" : "Chelada con cerveza nacional",
@@ -180,21 +212,46 @@ const jsonArray = [
         "id":14
     },
     {
-        "name" : "Michelada",
-        "price" : "550",
+        "name" : "Chelada con Cerveza nacional",
+        "price" : "470",
+        "category" : "Cocteles",
+        "description" : "Chelada con cerveza nacional",
+        "imageUrl" : "chelada-nacional.jpg",
+        "id":14
+    },
+    {
+        "name" : "Michelada con Cerveza Importada",
+        "price" : "500",
+        "category" : "Cocteles",
+        "description" : "Sinimagen.png",
+        "imageUrl" : "Sinimagen.png",
+        "id":15
+    },
+    {
+        "name" : "Michelada con cerveza nacional",
+        "price" : "600",
         "category" : "Cocteles",
         "description" : "Michelada con cerveza nacional",
         "imageUrl" : "michelada-con-cerveza-nacional.jpg",
         "id":15
     },
     {
-        "name" : "Colada sin alcohol",
-        "price" : "340",
+        "name" : "Pinna Colada sin alcohol",
+        "price" : "360",
         "category" : "Cocteles",
-        "description" : "Colada sin alcohol",
+        "description" : "Pinna Colada sin alcohol",
         "imageUrl" : "pina-colada-sin-alcohol.jpg",
         "id":16
     },
+    {
+        "name" : "Pinna Colada con alcohol",
+        "price" : "400",
+        "category" : "Cocteles",
+        "description" : "Pinna Colada con alcohol",
+        "imageUrl" : "pina-colada-sin-alcohol.jpg",
+        "id":16
+    },
+
     {
         "name" : "Trago Mariposa",
         "price" : "350",
@@ -204,8 +261,24 @@ const jsonArray = [
         "id": 17
     },
     {
-        "name" : "Cafe Espreso",
-        "price" : "120",
+        "name" : "Mojito",
+        "price" : "320",
+        "category" : "Cocteles",
+        "description" : "Mojito",
+        "imageUrl" : "Sinimagen.png",
+        "id":16
+    },
+    {
+        "name" : "Cuba Libre",
+        "price" : "400",
+        "category" : "Cocteles",
+        "description" : "Cuba Libre",
+        "imageUrl" : "Sinimagen.png",
+        "id":16
+    },
+    {
+        "name" : "Cafe Expreso",
+        "price" : "150",
         "category" : "Infusiones-Cafe",
         "description" : "Cafe Espreso",
         "imageUrl" : "cafe-espreso.jpg",
@@ -213,7 +286,7 @@ const jsonArray = [
     },
     {
         "name" : "Cafe Cortado",
-        "price" : "160",
+        "price" : "170",
         "category" : "Infusiones-Cafe",
         "description" : "Cafe Cortado",
         "imageUrl" : "cafe-cortado.jpg",
@@ -230,6 +303,60 @@ const jsonArray = [
     }
     ,
     {
+        "name" : "Café Frapucciono ",
+        "price" : "250",
+        "category" : "Infusiones-Cafe",
+        "description" : "Café Frapucciono ",
+        "imageUrl" : "Sinimagen.png",
+        "id":20
+    }
+    ,
+    {
+        "name" : "Café Mariposa",
+        "price" : "390",
+        "category" : "Infusiones-Cafe",
+        "description" : "Café Mariposa",
+        "imageUrl" : "Sinimagen.png",
+        "id":20
+    }
+    ,
+    {
+        "name" : "Te",
+        "price" : "100",
+        "category" : "Infusiones-Cafe",
+        "description" : "Te",
+        "imageUrl" : "Sinimagen.png",
+        "id":20
+    }
+    ,
+    {
+        "name" : "Racion de Aceitunas",
+        "price" : "430",
+        "category" : "Entrantes",
+        "description" : "Racion de Aceitunas",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Entremes de Queso",
+        "price" : "650",
+        "category" : "Entrantes",
+        "description" : "Entremes de Queso",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Entremes de Jamón",
+        "price" : "400",
+        "category" : "Entrantes",
+        "description" : "Entremes de Jamón",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
         "name" : "Malangas fritas",
         "price" : "300",
         "category" : "Entrantes",
@@ -239,7 +366,16 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Chicharritas",
+        "name" : "Boniatos Fritos",
+        "price" : "150",
+        "category" : "Entrantes",
+        "description" : "Boniatos Fritos",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Chicharritas de platano",
         "price" : "180",
         "category" : "Entrantes",
         "description" : "Chicharritas de platano",
@@ -257,8 +393,26 @@ const jsonArray = [
     }
     ,
     {
+        "name" : "Tostones de Queso",
+        "price" : "400",
+        "category" : "Entrantes",
+        "description" : "Tostones de Queso",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Tostones de Jamón",
+        "price" : "270",
+        "category" : "Entrantes",
+        "description" : "Tostones de Jamón",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
         "name" : "Tostones de jamon y queso",
-        "price" : "350",
+        "price" : "430",
         "category" : "Entrantes",
         "description" : "Tostones de Jamon y queso",
         "imageUrl" : "tostones-jamon-queso.jpg",
@@ -266,8 +420,8 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Crema de queso Especial",
-        "price" : "600",
+        "name" : "Crema de queso",
+        "price" : "650",
         "category" : "Entrantes",
         "description" : "Crema de queso",
         "imageUrl" : "crema-queso.jpg",
@@ -276,7 +430,7 @@ const jsonArray = [
     ,
     {
         "name" : "Crema de jamon y queso",
-        "price" : "700",
+        "price" : "720",
         "category" : "Entrantes",
         "description" : "Crema de jamon y queso",
         "imageUrl" : "crema-jamon-queso.jpg",
@@ -285,13 +439,449 @@ const jsonArray = [
     ,
     {
         "name" : "Picadera Mariposa",
-        "price" : "1500",
+        "price" : "2500",
         "category" : "Entrantes",
         "description" : "Picadera de la casa ( Fritas, fajitas de pollo, croquetas, jamon, queso, chorizo, salchicha, aceituna, salsas..",
         "imageUrl" : "picadera-mariposa.jpeg",
         "id":27
     }
-    
+    ,
+    {
+        "name" : "Tostones de Atún",
+        "price" : "450",
+        "category" : "Entrantes",
+        "description" : "Tostones de Atún",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Empanaditas",
+        "price" : "300",
+        "category" : "Entrantes",
+        "description" : "Empanaditas",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Ensalada Fría",
+        "price" : "500",
+        "category" : "Entrantes",
+        "description" : "Ensalada Fría",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Papas Bravas",
+        "price" : "450",
+        "category" : "Entrantes",
+        "description" : "Papas Bravas",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Fajitas de Pollo",
+        "price" : "750",
+        "category" : "Entrantes",
+        "description" : "Fajitas de Pollo",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Papas Fritas",
+        "price" : "600",
+        "category" : "Entrantes",
+        "description" : "Papas Fritas",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Papas Fritas",
+        "price" : "600",
+        "category" : "Entrantes",
+        "description" : "Papas Fritas",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Desayuno Mariposa",
+        "price" : "400",
+        "category" : "Desayunos",
+        "description" : "Desayuno Mariposa",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Creps Mariposa",
+        "price" : "400",
+        "category" : "Desayunos",
+        "description" : "Creps Mariposa",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Yogurt Natural",
+        "price" : "150",
+        "category" : "Desayunos",
+        "description" : "Yogurt Natural",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza Napolitana",
+        "price" : "380",
+        "category" : "Pizzas",
+        "description" : "Pizza Napolitana",
+        "imageUrl" : "pizza-queso-especial.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de Jamón ",
+        "price" : "480",
+        "category" : "Pizzas",
+        "description" : "Pizza de Jamón ",
+        "imageUrl" : "pizza-jamon.jpg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de Salchicha ",
+        "price" : "480",
+        "category" : "Pizzas",
+        "description" : "Pizza de Salchicha ",
+        "imageUrl" : "pizza-salchicha.jpg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza Mixta ",
+        "price" : "600",
+        "category" : "Pizzas",
+        "description" : "Pizza Mixta",
+        "imageUrl" : "pizza-mixta.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza Hawaiana",
+        "price" : "550",
+        "category" : "Pizzas",
+        "description" : "Pizza Hawaiana",
+        "imageUrl" : "pizza-hawaina.jpg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de Aceituna",
+        "price" : "700",
+        "category" : "Pizzas",
+        "description" : "Pizza de Aceituna",
+        "imageUrl" : "pizza-aceituna.jpg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de pimiento",
+        "price" : "500",
+        "category" : "Pizzas",
+        "description" : "Pizza de pimiento",
+        "imageUrl" : "pizza-pimiento.jpg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de Cebolla",
+        "price" : "480",
+        "category" : "Pizzas",
+        "description" : "Pizza de Cebolla",
+        "imageUrl" : "pizza-cebolla.jpg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de carne de res",
+        "price" : "800",
+        "category" : "Pizzas",
+        "description" : "Pizza de carne de res",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de carne de res",
+        "price" : "800",
+        "category" : "Pizzas",
+        "description" : "Pizza de carne de res",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza Especial de Queso",
+        "price" : "600",
+        "category" : "Pizzas",
+        "description" : "Pizza Especial de Queso",
+        "imageUrl" : "pizza-queso-especial.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de Jamón Pierna",
+        "price" : "680",
+        "category" : "Pizzas",
+        "description" : "Pizza de Jamón Pierna",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de Pollo",
+        "price" : "700",
+        "category" : "Pizzas",
+        "description" : "Pizza de Pollo",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de Vegetales ",
+        "price" : "450",
+        "category" : "Pizzas",
+        "description" : "Pizza de Vegetales ",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de Atún",
+        "price" : "700",
+        "category" : "Pizzas",
+        "description" : "Pizza de Atún",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de Cerdo",
+        "price" : "750",
+        "category" : "Pizzas",
+        "description" : "Pizza de Cerdo",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de Ropa Vieja",
+        "price" : "1170",
+        "category" : "Pizzas",
+        "description" : "Pizza de Ropa Vieja ",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza con Piña",
+        "price" : "500",
+        "category" : "Pizzas",
+        "description" : "Pizza con Piña",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza Mariposa",
+        "price" : "2700",
+        "category" : "Pizzas",
+        "description" : "Pizza Mariposa",
+        "imageUrl" : "pizza-mariposa.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza Familar",
+        "price" : "2500",
+        "category" : "Pizzas",
+        "description" : "Pizza Familiar",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Spaguettis Napolitano",
+        "price" : "1000",
+        "category" : "Pizzas",
+        "description" : "Spaguettis Napolitano",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Spaguettis con Jamón",
+        "price" : "1100",
+        "category" : "Pizzas",
+        "description" : "Spaguettis con Jamón",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Spaguettis con Salchichas",
+        "price" : "1100",
+        "category" : "Pizzas",
+        "description" : "Spaguettis con Salchichas",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Spaguettis con Chorizos",
+        "price" : "950",
+        "category" : "Pizzas",
+        "description" : "Spaguettis con Chorizos",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Spaguettis con Ropa Vieja",
+        "price" : "1700",
+        "category" : "Pizzas",
+        "description" : "Spaguettis con Ropa Vieja",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Hamburguesa Sencilla",
+        "price" : "400",
+        "category" : "Hamburguesas",
+        "description" : "Hamburguesa Sencilla",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Hamburguesa con queso",
+        "price" : "550",
+        "category" : "Hamburguesas",
+        "description" : "Hamburguesa con queso",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Hamburguesa con queso",
+        "price" : "550",
+        "category" : "Hamburguesas",
+        "description" : "Hamburguesa con queso",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Hamburguesa con Jamón",
+        "price" : "520",
+        "category" : "Hamburguesas",
+        "description" : "Hamburguesa con Jamón",
+        "imageUrl" : "Sinimagen.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Hamburguesa con Jamón y Queso",
+        "price" : "700",
+        "category" : "Hamburguesas",
+        "description" : "Hamburguesa con Jamón y Queso",
+        "imageUrl" : "hamburguesa-jamon-queso.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Hamburguesa mariposa",
+        "price" : "1000",
+        "category" : "Hamburguesas",
+        "description" : "Hamburguesa mariposa",
+        "imageUrl" : "hamburguesa-mariposa (2).jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Sandwish de queso",
+        "price" : "350",
+        "category" : "Hamburguesas",
+        "description" : "Sandwish de queso",
+        "imageUrl" : "sandwich-queso.jpg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Sandwish de Jamón",
+        "price" : "250",
+        "category" : "Hamburguesas",
+        "description" : "Sandwish de Jamón",
+        "imageUrl" : "sandwich-jamon.jpg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Sandwish de jamón y queso",
+        "price" : "370",
+        "category" : "Hamburguesas",
+        "description" : "Sandwish de jamón y queso",
+        "imageUrl" : "sandwich-jamon-queso.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Hot Dog",
+        "price" : "250",
+        "category" : "Hamburguesas",
+        "description" : "Hot Dog",
+        "imageUrl" : "hot-dog.jpg",
+        "id":21
+    }
+
+
+    ,
+    {
+        "name" : "Tacos de Vegetales",
+        "price" : "450",
+        "category" : "Tacos",
+        "description" : "Tacos de Vegetales",
+        "imageUrl" : "tacos-vegetales.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Tacos de pollo",
+        "price" : "600",
+        "category" : "Tacos",
+        "description" : "Tacos de pollo",
+        "imageUrl" : "tacos-pollo.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Taco de Res",
+        "price" : "750",
+        "category" : "Tacos",
+        "description" : "Taco de Res",
+        "imageUrl" : "tacos-res.png",
+        "id":21
+    }
+
+
+
    
 
 ]
