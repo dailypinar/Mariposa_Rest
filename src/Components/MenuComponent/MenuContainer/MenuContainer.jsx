@@ -47,7 +47,7 @@ function MenuContainer(){
     return( 
         <div className='menu-container' id="Menu">
             
-            <CategoryComponent  backFunction={modifyVisibility} categoryName='Entrantes' visibilityArray={visibility} id={0}  categoryPicture={CategoryEntrantes} products={jsonArray} ref={refArray[0]}/>
+            <CategoryComponent  backFunction={modifyVisibility} categoryName='Entrantes y Aditivos' visibilityArray={visibility} id={0}  categoryPicture={CategoryEntrantes} products={jsonArray} ref={refArray[0]}/>
             <CategoryComponent  backFunction={modifyVisibility} categoryName='Desayunos' visibilityArray={visibility}  id={1} categoryPicture={CategoryDesayunos} products={jsonArray} ref={refArray[1]}/>
             <CategoryComponent  backFunction={modifyVisibility} categoryName='Pizzas y Spaguettis' visibilityArray={visibility}  id={2} categoryPicture={CategoryPizzas} products={jsonArray} ref={refArray[2]}/>
             <CategoryComponent  backFunction={modifyVisibility} categoryName='Hamburguesas y Sandwish' visibilityArray={visibility}  id={3} categoryPicture={CategoryHamburguesas} products={jsonArray} ref={refArray[3]}/>
@@ -332,7 +332,7 @@ const jsonArray = [
     {
         "name" : "Racion de Aceitunas",
         "price" : "430",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Racion de Aceitunas",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -341,7 +341,7 @@ const jsonArray = [
     {
         "name" : "Entremes de Queso",
         "price" : "650",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Entremes de Queso",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -350,7 +350,7 @@ const jsonArray = [
     {
         "name" : "Entremes de Jamón",
         "price" : "400",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Entremes de Jamón",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -359,7 +359,7 @@ const jsonArray = [
     {
         "name" : "Malangas fritas",
         "price" : "300",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Racion de Malangas fritas",
         "imageUrl" : "malangas-fritas.jpg",
         "id":21
@@ -368,7 +368,7 @@ const jsonArray = [
     {
         "name" : "Boniatos Fritos",
         "price" : "150",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Boniatos Fritos",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -377,7 +377,7 @@ const jsonArray = [
     {
         "name" : "Chicharritas de platano",
         "price" : "180",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Chicharritas de platano",
         "imageUrl" : "chicharritas.jpg",
         "id":22
@@ -386,7 +386,7 @@ const jsonArray = [
     {
         "name" : "Croquetas",
         "price" : "300",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Croquetas de la casa",
         "imageUrl" : "croquetas.jpeg",
         "id":23
@@ -395,7 +395,7 @@ const jsonArray = [
     {
         "name" : "Tostones de Queso",
         "price" : "400",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Tostones de Queso",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -404,7 +404,7 @@ const jsonArray = [
     {
         "name" : "Tostones de Jamón",
         "price" : "270",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Tostones de Jamón",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -413,7 +413,7 @@ const jsonArray = [
     {
         "name" : "Tostones de jamon y queso",
         "price" : "430",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Tostones de Jamon y queso",
         "imageUrl" : "tostones-jamon-queso.jpg",
         "id":24
@@ -422,7 +422,7 @@ const jsonArray = [
     {
         "name" : "Crema de queso",
         "price" : "650",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Crema de queso",
         "imageUrl" : "crema-queso.jpg",
         "id":25
@@ -431,7 +431,7 @@ const jsonArray = [
     {
         "name" : "Crema de jamon y queso",
         "price" : "720",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Crema de jamon y queso",
         "imageUrl" : "crema-jamon-queso.jpg",
         "id":26
@@ -440,7 +440,7 @@ const jsonArray = [
     {
         "name" : "Picadera Mariposa",
         "price" : "2500",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Picadera de la casa ( Fritas, fajitas de pollo, croquetas, jamon, queso, chorizo, salchicha, aceituna, salsas..",
         "imageUrl" : "picadera-mariposa.jpeg",
         "id":27
@@ -449,7 +449,7 @@ const jsonArray = [
     {
         "name" : "Tostones de Atún",
         "price" : "450",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Tostones de Atún",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -458,7 +458,7 @@ const jsonArray = [
     {
         "name" : "Empanaditas",
         "price" : "300",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Empanaditas",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -467,7 +467,7 @@ const jsonArray = [
     {
         "name" : "Ensalada Fría",
         "price" : "500",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Ensalada Fría",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -476,7 +476,7 @@ const jsonArray = [
     {
         "name" : "Papas Bravas",
         "price" : "450",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Papas Bravas",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -485,7 +485,7 @@ const jsonArray = [
     {
         "name" : "Fajitas de Pollo",
         "price" : "750",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Fajitas de Pollo",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -494,20 +494,120 @@ const jsonArray = [
     {
         "name" : "Papas Fritas",
         "price" : "600",
-        "category" : "Entrantes",
+        "category" : "Entrantes y Aditivos",
         "description" : "Papas Fritas",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
     {
-        "name" : "Papas Fritas",
-        "price" : "600",
-        "category" : "Entrantes",
-        "description" : "Papas Fritas",
+        "name" : "Queso Gouda",
+        "price" : "500",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Queso Gouda",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
+    ,
+    {
+        "name" : "Pollo",
+        "price" : "350",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Pollo",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Chorizo",
+        "price" : "170",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Chorizo",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Aceituna",
+        "price" : "350",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Aceituna",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Jamón",
+        "price" : "170",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Jamón",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Cebolla",
+        "price" : "150",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Cebolla",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Atun",
+        "price" : "400",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Atun",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pimiento",
+        "price" : "150",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Pimiento",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Piña",
+        "price" : "150",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Piña",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Salchicha",
+        "price" : "170",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Salchicha",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Huevo",
+        "price" : "200",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Huevo",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Bola de Helado",
+        "price" : "150",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Bola de Helado",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+
     ,
     {
         "name" : "Desayuno Mariposa",
