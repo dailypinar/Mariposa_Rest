@@ -639,7 +639,7 @@ const jsonArray = [
     ,
     {
         "name" : "Pizza Mariposa",
-        "price" : "380",
+        "price" : "2700",
         "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Mariposa",
         "imageUrl" : "pizza-mariposa.jpeg",
@@ -793,7 +793,7 @@ const jsonArray = [
     ,
     {
         "name" : "Pizza Napolitana",
-        "price" : "2700",
+        "price" : "380",
         "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Napolitana",
         "imageUrl" : "pizza-queso-especial.jpeg",
