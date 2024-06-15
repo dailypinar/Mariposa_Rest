@@ -10,6 +10,7 @@ import CategoryBebidas from '../../../Resources/Transparent-Products/category-be
 import CategoryCocteles from '../../../Resources/Transparent-Products/category-cocteles.png';
 import CategoryInfusiones from '../../../Resources/Transparent-Products/category-infusiones.png';
 import CategoryPostres from '../../../Resources/Transparent-Products/category-postres.png';
+import CategoryPanes from '../../../Resources/Transparent-Products/panes-category.png';
 import {useEffect,useState,useRef} from 'react';
 import axios from 'axios';
 
@@ -17,7 +18,7 @@ import axios from 'axios';
 function MenuContainer(){
     let refEntrantes = useRef(null);
     const [visibility,setVisibility] = useState([0,0,0,0,0,0,0,0,0]);
-    const refArray = [useRef(null),useRef(null),useRef(null),useRef(null),useRef(null),useRef(null),useRef(null),useRef(null),useRef(null)]
+    const refArray = [useRef(null),useRef(null),useRef(null),useRef(null),useRef(null),useRef(null),useRef(null),useRef(null),useRef(null),useRef(null)]
 
     function modify(id){
         let container = refArray[id].current;
@@ -56,7 +57,7 @@ function MenuContainer(){
             <CategoryComponent  backFunction={modifyVisibility} categoryName='Cocteles' visibilityArray={visibility} id={6}categoryPicture={CategoryCocteles} products={jsonArray} ref={refArray[6]}/>
             <CategoryComponent  backFunction={modifyVisibility} categoryName='Infusiones-Cafe-Te' visibilityArray={visibility}  id={7} categoryPicture={CategoryInfusiones} products={jsonArray} ref={refArray[7]}/>
             <CategoryComponent  backFunction={modifyVisibility} categoryName='Postres' visibilityArray={visibility} id={8}categoryPicture={CategoryPostres} products={jsonArray} ref={refArray[8]}/>
-
+            <CategoryComponent  backFunction={modifyVisibility} categoryName='Panes' visibilityArray={visibility} id={9}categoryPicture={CategoryPanes} products={jsonArray} ref={refArray[9]}/>
             
 
         </div>
@@ -240,7 +241,7 @@ const jsonArray = [
         "price" : "360",
         "category" : "Cocteles",
         "description" : "Pinna Colada sin alcohol",
-        "imageUrl" : "pina-colada-sin-alcohol.jpg",
+        "imageUrl" : "pinacolada.jpeg",
         "id":16
     },
     {
@@ -248,7 +249,7 @@ const jsonArray = [
         "price" : "400",
         "category" : "Cocteles",
         "description" : "Pinna Colada con alcohol",
-        "imageUrl" : "pina-colada-sin-alcohol.jpg",
+        "imageUrl" : "pinacolada.jpeg",
         "id":16
     },
 
@@ -469,7 +470,7 @@ const jsonArray = [
         "price" : "500",
         "category" : "Entrantes y Aditivos",
         "description" : "Ensalada Fría",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "ensalada.jpeg",
         "id":21
     }
     ,
@@ -496,7 +497,7 @@ const jsonArray = [
         "price" : "600",
         "category" : "Entrantes y Aditivos",
         "description" : "Papas Fritas",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "papasfritas.jpeg",
         "id":21
     }
     ,
@@ -632,7 +633,7 @@ const jsonArray = [
         "price" : "150",
         "category" : "Desayunos",
         "description" : "Yogurt Natural",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "yogurt.jpg",
         "id":21
     }
     ,
@@ -1067,7 +1068,25 @@ const jsonArray = [
         "price" : "150",
         "category" : "Postres",
         "description" : "Dona",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "donas.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pan de Hamburguesa",
+        "price" : "150",
+        "category" : "Panes",
+        "description" : "Pan de Hamburguesa",
+        "imageUrl" : "pan-hamburguesa.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Panes",
+        "price" : "150",
+        "category" : "Panes",
+        "description" : "Panes",
+        "imageUrl" : "panes.png",
         "id":21
     }
 
