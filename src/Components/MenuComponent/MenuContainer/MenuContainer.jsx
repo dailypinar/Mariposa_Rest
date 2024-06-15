@@ -49,12 +49,12 @@ function MenuContainer(){
             
             <CategoryComponent  backFunction={modifyVisibility} categoryName='Entrantes' visibilityArray={visibility} id={0}  categoryPicture={CategoryEntrantes} products={jsonArray} ref={refArray[0]}/>
             <CategoryComponent  backFunction={modifyVisibility} categoryName='Desayunos' visibilityArray={visibility}  id={1} categoryPicture={CategoryDesayunos} products={jsonArray} ref={refArray[1]}/>
-            <CategoryComponent  backFunction={modifyVisibility} categoryName='Pizzas' visibilityArray={visibility}  id={2} categoryPicture={CategoryPizzas} products={jsonArray} ref={refArray[2]}/>
-            <CategoryComponent  backFunction={modifyVisibility} categoryName='Hamburguesas' visibilityArray={visibility}  id={3} categoryPicture={CategoryHamburguesas} products={jsonArray} ref={refArray[3]}/>
+            <CategoryComponent  backFunction={modifyVisibility} categoryName='Pizzas y Spaguettis' visibilityArray={visibility}  id={2} categoryPicture={CategoryPizzas} products={jsonArray} ref={refArray[2]}/>
+            <CategoryComponent  backFunction={modifyVisibility} categoryName='Hamburguesas y Sandwish' visibilityArray={visibility}  id={3} categoryPicture={CategoryHamburguesas} products={jsonArray} ref={refArray[3]}/>
             <CategoryComponent  backFunction={modifyVisibility} categoryName='Tacos' visibilityArray={visibility}  id={4} categoryPicture={CategoryTacos} products={jsonArray} ref={refArray[4]}/>
             <CategoryComponent  backFunction={modifyVisibility} categoryName='Bebidas' visibilityArray={visibility}  id={5} categoryPicture={CategoryBebidas} products={jsonArray} ref={refArray[5]}/>
             <CategoryComponent  backFunction={modifyVisibility} categoryName='Cocteles' visibilityArray={visibility} id={6}categoryPicture={CategoryCocteles} products={jsonArray} ref={refArray[6]}/>
-            <CategoryComponent  backFunction={modifyVisibility} categoryName='Infusiones-Cafe' visibilityArray={visibility}  id={7} categoryPicture={CategoryInfusiones} products={jsonArray} ref={refArray[7]}/>
+            <CategoryComponent  backFunction={modifyVisibility} categoryName='Infusiones-Cafe-Te' visibilityArray={visibility}  id={7} categoryPicture={CategoryInfusiones} products={jsonArray} ref={refArray[7]}/>
             <CategoryComponent  backFunction={modifyVisibility} categoryName='Postres' visibilityArray={visibility} id={8}categoryPicture={CategoryPostres} products={jsonArray} ref={refArray[8]}/>
 
             
@@ -279,7 +279,7 @@ const jsonArray = [
     {
         "name" : "Cafe Expreso",
         "price" : "150",
-        "category" : "Infusiones-Cafe",
+        "category" : "Infusiones-Cafe-Te",
         "description" : "Cafe Espreso",
         "imageUrl" : "cafe-espreso.jpg",
         "id" : 18
@@ -287,7 +287,7 @@ const jsonArray = [
     {
         "name" : "Cafe Cortado",
         "price" : "170",
-        "category" : "Infusiones-Cafe",
+        "category" : "Infusiones-Cafe-Te",
         "description" : "Cafe Cortado",
         "imageUrl" : "cafe-cortado.jpg",
         "id":19
@@ -296,7 +296,7 @@ const jsonArray = [
     {
         "name" : "Cafe Bombom",
         "price" : "250",
-        "category" : "Infusiones-Cafe",
+        "category" : "Infusiones-Cafe-Te",
         "description" : "Cafe Bombom",
         "imageUrl" : "cafe-bombon.jpg",
         "id":20
@@ -305,7 +305,7 @@ const jsonArray = [
     {
         "name" : "Café Frapucciono ",
         "price" : "250",
-        "category" : "Infusiones-Cafe",
+        "category" : "Infusiones-Cafe-Te",
         "description" : "Café Frapucciono ",
         "imageUrl" : "logomariposa.png",
         "id":20
@@ -314,7 +314,7 @@ const jsonArray = [
     {
         "name" : "Café Mariposa",
         "price" : "390",
-        "category" : "Infusiones-Cafe",
+        "category" : "Infusiones-Cafe-Te",
         "description" : "Café Mariposa",
         "imageUrl" : "logomariposa.png",
         "id":20
@@ -323,7 +323,7 @@ const jsonArray = [
     {
         "name" : "Te",
         "price" : "100",
-        "category" : "Infusiones-Cafe",
+        "category" : "Infusiones-Cafe-Te",
         "description" : "Te",
         "imageUrl" : "logomariposa.png",
         "id":20
@@ -539,7 +539,7 @@ const jsonArray = [
     {
         "name" : "Pizza Napolitana",
         "price" : "380",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Napolitana",
         "imageUrl" : "pizza-queso-especial.jpeg",
         "id":21
@@ -548,7 +548,7 @@ const jsonArray = [
     {
         "name" : "Pizza de Jamón ",
         "price" : "480",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de Jamón ",
         "imageUrl" : "pizza-jamon.jpg",
         "id":21
@@ -557,7 +557,7 @@ const jsonArray = [
     {
         "name" : "Pizza de Salchicha ",
         "price" : "480",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de Salchicha ",
         "imageUrl" : "pizza-salchicha.jpg",
         "id":21
@@ -566,7 +566,7 @@ const jsonArray = [
     {
         "name" : "Pizza Mixta ",
         "price" : "600",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Mixta",
         "imageUrl" : "pizza-mixta.jpeg",
         "id":21
@@ -575,7 +575,7 @@ const jsonArray = [
     {
         "name" : "Pizza Hawaiana",
         "price" : "550",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Hawaiana",
         "imageUrl" : "pizza-hawaina.jpg",
         "id":21
@@ -584,7 +584,7 @@ const jsonArray = [
     {
         "name" : "Pizza de Aceituna",
         "price" : "700",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de Aceituna",
         "imageUrl" : "pizza-aceituna.jpg",
         "id":21
@@ -593,7 +593,7 @@ const jsonArray = [
     {
         "name" : "Pizza de pimiento",
         "price" : "500",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de pimiento",
         "imageUrl" : "pizza-pimiento.jpg",
         "id":21
@@ -602,7 +602,7 @@ const jsonArray = [
     {
         "name" : "Pizza de Cebolla",
         "price" : "480",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de Cebolla",
         "imageUrl" : "pizza-cebolla.jpg",
         "id":21
@@ -611,7 +611,7 @@ const jsonArray = [
     {
         "name" : "Pizza de carne de res",
         "price" : "800",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de carne de res",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -621,7 +621,7 @@ const jsonArray = [
     {
         "name" : "Pizza Especial de Queso",
         "price" : "600",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Especial de Queso",
         "imageUrl" : "pizza-queso-especial.jpeg",
         "id":21
@@ -630,7 +630,7 @@ const jsonArray = [
     {
         "name" : "Pizza de Jamón Pierna",
         "price" : "680",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de Jamón Pierna",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -639,7 +639,7 @@ const jsonArray = [
     {
         "name" : "Pizza de Pollo",
         "price" : "700",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de Pollo",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -648,7 +648,7 @@ const jsonArray = [
     {
         "name" : "Pizza de Vegetales ",
         "price" : "450",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de Vegetales ",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -657,7 +657,7 @@ const jsonArray = [
     {
         "name" : "Pizza de Atún",
         "price" : "700",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de Atún",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -666,7 +666,7 @@ const jsonArray = [
     {
         "name" : "Pizza de Cerdo",
         "price" : "750",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de Cerdo",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -675,7 +675,7 @@ const jsonArray = [
     {
         "name" : "Pizza de Ropa Vieja",
         "price" : "1170",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de Ropa Vieja ",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -684,7 +684,7 @@ const jsonArray = [
     {
         "name" : "Pizza con Piña",
         "price" : "500",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza con Piña",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -693,7 +693,7 @@ const jsonArray = [
     {
         "name" : "Pizza Mariposa",
         "price" : "2700",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Mariposa",
         "imageUrl" : "pizza-mariposa.jpeg",
         "id":21
@@ -702,7 +702,7 @@ const jsonArray = [
     {
         "name" : "Pizza Familar",
         "price" : "2500",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Familiar",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -711,7 +711,7 @@ const jsonArray = [
     {
         "name" : "Spaguettis Napolitano",
         "price" : "1000",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Spaguettis Napolitano",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -720,7 +720,7 @@ const jsonArray = [
     {
         "name" : "Spaguettis con Jamón",
         "price" : "1100",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Spaguettis con Jamón",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -729,7 +729,7 @@ const jsonArray = [
     {
         "name" : "Spaguettis con Salchichas",
         "price" : "1100",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Spaguettis con Salchichas",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -738,7 +738,7 @@ const jsonArray = [
     {
         "name" : "Spaguettis con Chorizos",
         "price" : "950",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Spaguettis con Chorizos",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -747,7 +747,7 @@ const jsonArray = [
     {
         "name" : "Spaguettis con Ropa Vieja",
         "price" : "1700",
-        "category" : "Pizzas",
+        "category" : "Pizzas y Spaguettis",
         "description" : "Spaguettis con Ropa Vieja",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -756,7 +756,7 @@ const jsonArray = [
     {
         "name" : "Hamburguesa Sencilla",
         "price" : "400",
-        "category" : "Hamburguesas",
+        "category" : "Hamburguesas y Sandwish",
         "description" : "Hamburguesa Sencilla",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -765,7 +765,7 @@ const jsonArray = [
     {
         "name" : "Hamburguesa con queso",
         "price" : "550",
-        "category" : "Hamburguesas",
+        "category" : "Hamburguesas y Sandwish",
         "description" : "Hamburguesa con queso",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -774,7 +774,7 @@ const jsonArray = [
     {
         "name" : "Hamburguesa con queso",
         "price" : "550",
-        "category" : "Hamburguesas",
+        "category" : "Hamburguesas y Sandwish",
         "description" : "Hamburguesa con queso",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -783,7 +783,7 @@ const jsonArray = [
     {
         "name" : "Hamburguesa con Jamón",
         "price" : "520",
-        "category" : "Hamburguesas",
+        "category" : "Hamburguesas y Sandwish",
         "description" : "Hamburguesa con Jamón",
         "imageUrl" : "logomariposa.png",
         "id":21
@@ -792,7 +792,7 @@ const jsonArray = [
     {
         "name" : "Hamburguesa con Jamón y Queso",
         "price" : "700",
-        "category" : "Hamburguesas",
+        "category" : "Hamburguesas y Sandwish",
         "description" : "Hamburguesa con Jamón y Queso",
         "imageUrl" : "hamburguesa-jamon-queso.jpeg",
         "id":21
@@ -801,7 +801,7 @@ const jsonArray = [
     {
         "name" : "Hamburguesa mariposa",
         "price" : "1000",
-        "category" : "Hamburguesas",
+        "category" : "Hamburguesas y Sandwish",
         "description" : "Hamburguesa mariposa",
         "imageUrl" : "hamburguesa-mariposa (2).jpeg",
         "id":21
@@ -810,7 +810,7 @@ const jsonArray = [
     {
         "name" : "Sandwish de queso",
         "price" : "350",
-        "category" : "Hamburguesas",
+        "category" : "Hamburguesas y Sandwish",
         "description" : "Sandwish de queso",
         "imageUrl" : "sandwich-queso.jpg",
         "id":21
@@ -819,7 +819,7 @@ const jsonArray = [
     {
         "name" : "Sandwish de Jamón",
         "price" : "250",
-        "category" : "Hamburguesas",
+        "category" : "Hamburguesas y Sandwish",
         "description" : "Sandwish de Jamón",
         "imageUrl" : "sandwich-jamon.jpg",
         "id":21
@@ -828,7 +828,7 @@ const jsonArray = [
     {
         "name" : "Sandwish de jamón y queso",
         "price" : "370",
-        "category" : "Hamburguesas",
+        "category" : "Hamburguesas y Sandwish",
         "description" : "Sandwish de jamón y queso",
         "imageUrl" : "sandwich-jamon-queso.jpeg",
         "id":21
@@ -837,7 +837,7 @@ const jsonArray = [
     {
         "name" : "Hot Dog",
         "price" : "250",
-        "category" : "Hamburguesas",
+        "category" : "Hamburguesas y Sandwish",
         "description" : "Hot Dog",
         "imageUrl" : "hot-dog.jpg",
         "id":21
