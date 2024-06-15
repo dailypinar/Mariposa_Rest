@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Mariposa_Rest/static/css/main.352d8b22.css",
-    "main.js": "/Mariposa_Rest/static/js/main.e3d473dc.js",
+    "main.js": "/Mariposa_Rest/static/js/main.ed898191.js",
     "static/media/pablo-pacheco-D3Mag4BKqns-unsplash.jpg": "/Mariposa_Rest/static/media/pablo-pacheco-D3Mag4BKqns-unsplash.3cfe1d77fd42b9884982.jpg",
     "static/media/franja-image.png": "/Mariposa_Rest/static/media/franja-image.b135b5321640d48faa71.png",
     "static/media/image-2.jpeg": "/Mariposa_Rest/static/media/image-2.6d4c21df572dcc052941.jpeg",
+    "static/media/ensaladapng.png": "/Mariposa_Rest/static/media/ensaladapng.7f9d8856af255dfede9a.png",
     "static/media/image-1.jpeg": "/Mariposa_Rest/static/media/image-1.e27ef13f0a0eb2a9c8e5.jpeg",
     "static/media/image-5.jpeg": "/Mariposa_Rest/static/media/image-5.1f6ff0076d829e9871ca.jpeg",
     "static/media/image-6.jpeg": "/Mariposa_Rest/static/media/image-6.8cd9492e79816d059fc3.jpeg",
@@ -17,11 +18,16 @@
     "static/media/category-pizzas.png": "/Mariposa_Rest/static/media/category-pizzas.0ca36bbf57cad60e06b9.png",
     "static/media/pizza-mariposa2.jpeg": "/Mariposa_Rest/static/media/pizza-mariposa2.34020e98fbcf44abb90d.jpeg",
     "static/media/picadera-mariposa.jpeg": "/Mariposa_Rest/static/media/picadera-mariposa.60d3ff4202a28b66d191.jpeg",
+    "static/media/panes-category.png": "/Mariposa_Rest/static/media/panes-category.e95b56891093265b05a0.png",
+    "static/media/panes.png": "/Mariposa_Rest/static/media/panes.e95b56891093265b05a0.png",
     "static/media/tacos-pollo.jpeg": "/Mariposa_Rest/static/media/tacos-pollo.11324c9e209970b3d4bb.jpeg",
+    "static/media/donas.jpeg": "/Mariposa_Rest/static/media/donas.cac924a429c810ed391e.jpeg",
     "static/media/pizza-jamon.jpg": "/Mariposa_Rest/static/media/pizza-jamon.43c4f0213e332886b474.jpg",
+    "static/media/ensalada-fria.jpeg": "/Mariposa_Rest/static/media/ensalada-fria.d8b9a79aca266fca0195.jpeg",
     "static/media/sandwich-jamon-queso.jpeg": "/Mariposa_Rest/static/media/sandwich-jamon-queso.6930bed25bdcc0e1b10b.jpeg",
     "static/media/category-postres.png": "/Mariposa_Rest/static/media/category-postres.0c73ab3c42e355025c38.png",
     "static/media/hamburguesa-mariposa (2).jpeg": "/Mariposa_Rest/static/media/hamburguesa-mariposa (2).614f6489e696ea7cacd2.jpeg",
+    "static/media/pinacolada.jpeg": "/Mariposa_Rest/static/media/pinacolada.881ec10254c67695fb08.jpeg",
     "static/media/category-cocteles.png": "/Mariposa_Rest/static/media/category-cocteles.8933d7ea241363488319.png",
     "static/media/category-infusiones.png": "/Mariposa_Rest/static/media/category-infusiones.4ec9ddec88b52b2aa8d8.png",
     "static/media/trago-mariposa.jpeg": "/Mariposa_Rest/static/media/trago-mariposa.5284b086be347d14526c.jpeg",
@@ -33,7 +39,9 @@
     "static/media/category-entrantes.png": "/Mariposa_Rest/static/media/category-entrantes.424058c96b2bab4dd22f.png",
     "static/media/hot-dog.jpg": "/Mariposa_Rest/static/media/hot-dog.a5168efa256adb266255.jpg",
     "static/media/malta_import.jpg": "/Mariposa_Rest/static/media/malta_import.4d36fc990d87c9166faf.jpg",
+    "static/media/pan-hamburguesa.jpeg": "/Mariposa_Rest/static/media/pan-hamburguesa.8ff37aec49815eca483b.jpeg",
     "static/media/pizza-queso-especial.jpeg": "/Mariposa_Rest/static/media/pizza-queso-especial.67e9592b411440662e4e.jpeg",
+    "static/media/papasfritas.jpeg": "/Mariposa_Rest/static/media/papasfritas.8806f393be073c46a3a5.jpeg",
     "static/media/pizza-mariposa1.jpeg": "/Mariposa_Rest/static/media/pizza-mariposa1.1b9a058a4c8cc92b6b06.jpeg",
     "static/media/refrescos-nacionales.jpg": "/Mariposa_Rest/static/media/refrescos-nacionales.268f415d4b2fa4232693.jpg",
     "static/media/creps-miel.jpg": "/Mariposa_Rest/static/media/creps-miel.e6b394c9caecbb2f822c.jpg",
@@ -42,6 +50,7 @@
     "static/media/Hamburguesa-Mariposa.jpeg": "/Mariposa_Rest/static/media/Hamburguesa-Mariposa.0fdde37b7b470b058fbb.jpeg",
     "static/media/michelada-con-cerveza-nacional.jpg": "/Mariposa_Rest/static/media/michelada-con-cerveza-nacional.57bba803065d43583054.jpg",
     "static/media/helado-mariposa.jpeg": "/Mariposa_Rest/static/media/helado-mariposa.9244155469788a9e3117.jpeg",
+    "static/media/empanaditas.jpeg": "/Mariposa_Rest/static/media/empanaditas.ee39c184f06bb5fd12ee.jpeg",
     "static/media/desayuno-mariposa.jpg": "/Mariposa_Rest/static/media/desayuno-mariposa.8744d96305f0e320a96c.jpg",
     "static/media/category-hamburguesas.png": "/Mariposa_Rest/static/media/category-hamburguesas.dd18a7add776c1d4ad72.png",
     "static/media/pizza-mariposa3.jpeg": "/Mariposa_Rest/static/media/pizza-mariposa3.1ef030303ed7323a293b.jpeg",
@@ -77,10 +86,10 @@
     "static/media/sandwich-jamon.jpg": "/Mariposa_Rest/static/media/sandwich-jamon.3fe36edf5bf2b34c1c3a.jpg",
     "index.html": "/Mariposa_Rest/index.html",
     "main.352d8b22.css.map": "/Mariposa_Rest/static/css/main.352d8b22.css.map",
-    "main.e3d473dc.js.map": "/Mariposa_Rest/static/js/main.e3d473dc.js.map"
+    "main.ed898191.js.map": "/Mariposa_Rest/static/js/main.ed898191.js.map"
   },
   "entrypoints": [
     "static/css/main.352d8b22.css",
-    "static/js/main.e3d473dc.js"
+    "static/js/main.ed898191.js"
   ]
 }
