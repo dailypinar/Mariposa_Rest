@@ -973,6 +973,15 @@ const jsonArray = [
     }
     ,
     {
+        "name" : "Taco de Carne de Puerco",
+        "price" : "900",
+        "category" : "Tacos",
+        "description" : "Taco de Carne de Puerco",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
         "name" : "Creps de nutela",
         "price" : "300",
         "category" : "Postres",
