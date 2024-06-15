@@ -241,7 +241,7 @@ const jsonArray = [
         "price" : "360",
         "category" : "Cocteles",
         "description" : "Pinna Colada sin alcohol",
-        "imageUrl" : "pinacolada.jpeg",
+        "imageUrl" : "colada.jpeg",
         "id":16
     },
     {
@@ -249,7 +249,7 @@ const jsonArray = [
         "price" : "400",
         "category" : "Cocteles",
         "description" : "Pinna Colada con alcohol",
-        "imageUrl" : "pinacolada.jpeg",
+        "imageUrl" : "colada.jpeg",
         "id":16
     },
 
