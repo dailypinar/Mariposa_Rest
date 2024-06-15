@@ -326,7 +326,7 @@ const jsonArray = [
         "price" : "100",
         "category" : "Infusiones-Cafe-Te",
         "description" : "Te",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "infusiones-te.jpg",
         "id":20
     }
     ,
@@ -371,7 +371,7 @@ const jsonArray = [
         "price" : "150",
         "category" : "Entrantes y Aditivos",
         "description" : "Boniatos Fritos",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "boniato-frito.jpg",
         "id":21
     }
     ,
@@ -461,7 +461,7 @@ const jsonArray = [
         "price" : "300",
         "category" : "Entrantes y Aditivos",
         "description" : "Empanaditas",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "empanaditas.jpeg",
         "id":21
     }
     ,
@@ -470,7 +470,7 @@ const jsonArray = [
         "price" : "500",
         "category" : "Entrantes y Aditivos",
         "description" : "Ensalada Fría",
-        "imageUrl" : "ensalada.jpeg",
+        "imageUrl" : "ensaladapng.png",
         "id":21
     }
     ,
@@ -502,109 +502,109 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Queso Gouda",
+        "name" : "Queso Gouda(Aditivo)",
         "price" : "500",
         "category" : "Entrantes y Aditivos",
-        "description" : "Queso Gouda",
+        "description" : "Queso Gouda(Aditivo)",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
     {
-        "name" : "Pollo",
+        "name" : "Pollo(Aditivo)",
         "price" : "350",
         "category" : "Entrantes y Aditivos",
-        "description" : "Pollo",
+        "description" : "Pollo(Aditivo)",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
     {
-        "name" : "Chorizo",
+        "name" : "Chorizo(Aditivo)",
         "price" : "170",
         "category" : "Entrantes y Aditivos",
-        "description" : "Chorizo",
+        "description" : "Chorizo(Aditivo)",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
     {
-        "name" : "Aceituna",
+        "name" : "Aceituna(Aditivo)",
         "price" : "350",
         "category" : "Entrantes y Aditivos",
-        "description" : "Aceituna",
+        "description" : "Aceituna(Aditivo)",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
     {
-        "name" : "Jamón",
+        "name" : "Jamón(Aditivo)",
         "price" : "170",
         "category" : "Entrantes y Aditivos",
-        "description" : "Jamón",
+        "description" : "Jamón(Aditivo)",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
     {
-        "name" : "Cebolla",
+        "name" : "Cebolla(Aditivo)",
         "price" : "150",
         "category" : "Entrantes y Aditivos",
-        "description" : "Cebolla",
+        "description" : "Cebolla(Aditivo)",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
     {
-        "name" : "Atun",
+        "name" : "Atun(Aditivo)",
         "price" : "400",
         "category" : "Entrantes y Aditivos",
-        "description" : "Atun",
+        "description" : "Atun(Aditivo)",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
     {
-        "name" : "Pimiento",
+        "name" : "Pimiento(Aditivo)",
         "price" : "150",
         "category" : "Entrantes y Aditivos",
-        "description" : "Pimiento",
+        "description" : "Pimiento(Aditivo)",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
     {
-        "name" : "Piña",
+        "name" : "Piña(Aditivo)",
         "price" : "150",
         "category" : "Entrantes y Aditivos",
-        "description" : "Piña",
+        "description" : "Piña(Aditivo)",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
     {
-        "name" : "Salchicha",
+        "name" : "Salchicha(Aditivo)",
         "price" : "170",
         "category" : "Entrantes y Aditivos",
-        "description" : "Salchicha",
+        "description" : "Salchicha(Aditivo)",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
     {
-        "name" : "Huevo",
+        "name" : "Huevo(Aditivo)",
         "price" : "200",
         "category" : "Entrantes y Aditivos",
-        "description" : "Huevo",
+        "description" : "Huevo(Aditivo)",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
     {
-        "name" : "Bola de Helado",
+        "name" : "Bola de Helado(Aditivo)",
         "price" : "150",
         "category" : "Entrantes y Aditivos",
-        "description" : "Bola de Helado",
+        "description" : "Bola de Helado(Aditivo)",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
@@ -1014,7 +1014,7 @@ const jsonArray = [
         "price" : "600",
         "category" : "Postres",
         "description" : "Dulce Mariposa con Helado",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "batido-helado-panetela.jpeg",
         "id":21
     }
     ,
@@ -1074,7 +1074,7 @@ const jsonArray = [
     ,
     {
         "name" : "Pan de Hamburguesa",
-        "price" : "150",
+        "price" : "50",
         "category" : "Panes",
         "description" : "Pan de Hamburguesa",
         "imageUrl" : "pan-hamburguesa.jpeg",
@@ -1082,11 +1082,20 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Panes",
+        "name" : "Panes de Bolsa",
         "price" : "150",
         "category" : "Panes",
-        "description" : "Panes",
+        "description" : "Panes de Bolsa",
         "imageUrl" : "panes.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pan de Telera",
+        "price" : "110",
+        "category" : "Panes",
+        "description" : "Pan de Telera",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
 
