@@ -638,11 +638,11 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Pizza Napolitana",
+        "name" : "Pizza Mariposa",
         "price" : "380",
         "category" : "Pizzas y Spaguettis",
-        "description" : "Pizza Napolitana",
-        "imageUrl" : "pizza-queso-especial.jpeg",
+        "description" : "Pizza Mariposa",
+        "imageUrl" : "pizza-mariposa.jpeg",
         "id":21
     }
     ,
@@ -792,11 +792,11 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Pizza Mariposa",
+        "name" : "Pizza Napolitana",
         "price" : "2700",
         "category" : "Pizzas y Spaguettis",
-        "description" : "Pizza Mariposa",
-        "imageUrl" : "pizza-mariposa.jpeg",
+        "description" : "Pizza Napolitana",
+        "imageUrl" : "pizza-queso-especial.jpeg",
         "id":21
     }
     ,
