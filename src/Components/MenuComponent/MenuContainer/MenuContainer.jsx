@@ -299,7 +299,7 @@ const jsonArray = [
         "price" : "250",
         "category" : "Infusiones-Cafe-Te",
         "description" : "Cafe Bombom",
-        "imageUrl" : "Cafebombonmariposa.jpeg",
+        "imageUrl" : "cafebombonmariposa.jpeg",
         "id":20
     }
     ,
@@ -922,7 +922,7 @@ const jsonArray = [
         "price" : "250",
         "category" : "Hamburguesas y Sandwish",
         "description" : "Sandwish de Jamón",
-        "imageUrl" : "sandwich-jyq.jpeg",
+        "imageUrl" : "sandwish-jyq.jpeg",
         "id":21
     }
     ,
@@ -1032,7 +1032,7 @@ const jsonArray = [
         "price" : "300",
         "category" : "Postres",
         "description" : "Creps de Chocolate",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "crepschocolate.jpeg",
         "id":21
     }
     ,
