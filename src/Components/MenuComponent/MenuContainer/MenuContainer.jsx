@@ -299,7 +299,7 @@ const jsonArray = [
         "price" : "250",
         "category" : "Infusiones-Cafe-Te",
         "description" : "Cafe Bombom",
-        "imageUrl" : "cafe-bombon.jpg",
+        "imageUrl" : "Cafebombonmariposa.jpeg",
         "id":20
     }
     ,
@@ -344,7 +344,7 @@ const jsonArray = [
         "price" : "650",
         "category" : "Entrantes y Aditivos",
         "description" : "Entremes de Queso",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "EntremesQueso.jpeg",
         "id":21
     }
     ,
@@ -624,7 +624,7 @@ const jsonArray = [
         "price" : "400",
         "category" : "Desayunos",
         "description" : "Creps Mariposa",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "crepschocolate.jpeg",
         "id":21
     }
     ,
@@ -651,7 +651,7 @@ const jsonArray = [
         "price" : "480",
         "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de Jamón ",
-        "imageUrl" : "pizza-jamon.jpg",
+        "imageUrl" : "pizza-jamonyquesoM.jpeg",
         "id":21
     }
     ,
@@ -823,7 +823,7 @@ const jsonArray = [
         "price" : "1100",
         "category" : "Pizzas y Spaguettis",
         "description" : "Spaguettis con Jamón",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "spaguettis.jpeg",
         "id":21
     }
     ,
@@ -922,7 +922,7 @@ const jsonArray = [
         "price" : "250",
         "category" : "Hamburguesas y Sandwish",
         "description" : "Sandwish de Jamón",
-        "imageUrl" : "sandwich-jamon.jpg",
+        "imageUrl" : "sandwich-jyq.jpeg",
         "id":21
     }
     ,
