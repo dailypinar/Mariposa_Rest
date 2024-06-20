@@ -1059,7 +1059,7 @@ const jsonArray = [
         "price" : "400",
         "category" : "Postres",
         "description" : "Borugas de Leche",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "borugasdeleche.jpeg",
         "id":21
     }
     ,
