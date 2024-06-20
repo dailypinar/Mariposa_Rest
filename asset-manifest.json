@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mariposa_Rest/static/css/main.352d8b22.css",
-    "main.js": "/Mariposa_Rest/static/js/main.0e878c84.js",
+    "main.js": "/Mariposa_Rest/static/js/main.c0f15362.js",
     "static/media/pablo-pacheco-D3Mag4BKqns-unsplash.jpg": "/Mariposa_Rest/static/media/pablo-pacheco-D3Mag4BKqns-unsplash.3cfe1d77fd42b9884982.jpg",
     "static/media/franja-image.png": "/Mariposa_Rest/static/media/franja-image.b135b5321640d48faa71.png",
     "static/media/image-2.jpeg": "/Mariposa_Rest/static/media/image-2.6d4c21df572dcc052941.jpeg",
@@ -20,13 +20,14 @@
     "static/media/picadera-mariposa.jpeg": "/Mariposa_Rest/static/media/picadera-mariposa.60d3ff4202a28b66d191.jpeg",
     "static/media/panes.png": "/Mariposa_Rest/static/media/panes.e95b56891093265b05a0.png",
     "static/media/tacos-pollo.jpeg": "/Mariposa_Rest/static/media/tacos-pollo.11324c9e209970b3d4bb.jpeg",
-    "static/media/donas.jpeg": "/Mariposa_Rest/static/media/donas.cac924a429c810ed391e.jpeg",
+    "static/media/donas.jpeg": "/Mariposa_Rest/static/media/donas.1266b7b315f708e87e1f.jpeg",
     "static/media/pizza-jamon.jpg": "/Mariposa_Rest/static/media/pizza-jamon.43c4f0213e332886b474.jpg",
     "static/media/ensalada-fria.jpeg": "/Mariposa_Rest/static/media/ensalada-fria.d8b9a79aca266fca0195.jpeg",
     "static/media/cafebombonmariposa.jpeg": "/Mariposa_Rest/static/media/cafebombonmariposa.4ca68ceae23ef9a70eab.jpeg",
     "static/media/sandwich-jamon-queso.jpeg": "/Mariposa_Rest/static/media/sandwich-jamon-queso.6930bed25bdcc0e1b10b.jpeg",
     "static/media/pizza-jamonyquesoM.jpeg": "/Mariposa_Rest/static/media/pizza-jamonyquesoM.1cf899b57e5226040be5.jpeg",
     "static/media/hamburguesa-mariposa (2).jpeg": "/Mariposa_Rest/static/media/hamburguesa-mariposa (2).614f6489e696ea7cacd2.jpeg",
+    "static/media/DesayunoMariposa.jpeg": "/Mariposa_Rest/static/media/DesayunoMariposa.8c664867b274945b0e12.jpeg",
     "static/media/panes-category.png": "/Mariposa_Rest/static/media/panes-category.2be5ece2084b1a322ea5.png",
     "static/media/pinacolada.jpeg": "/Mariposa_Rest/static/media/pinacolada.881ec10254c67695fb08.jpeg",
     "static/media/spaguettis.jpeg": "/Mariposa_Rest/static/media/spaguettis.c55e889a3c28aa891ffd.jpeg",
@@ -92,10 +93,10 @@
     "static/media/sandwich-jamon.jpg": "/Mariposa_Rest/static/media/sandwich-jamon.3fe36edf5bf2b34c1c3a.jpg",
     "index.html": "/Mariposa_Rest/index.html",
     "main.352d8b22.css.map": "/Mariposa_Rest/static/css/main.352d8b22.css.map",
-    "main.0e878c84.js.map": "/Mariposa_Rest/static/js/main.0e878c84.js.map"
+    "main.c0f15362.js.map": "/Mariposa_Rest/static/js/main.c0f15362.js.map"
   },
   "entrypoints": [
     "static/css/main.352d8b22.css",
-    "static/js/main.0e878c84.js"
+    "static/js/main.c0f15362.js"
   ]
 }
