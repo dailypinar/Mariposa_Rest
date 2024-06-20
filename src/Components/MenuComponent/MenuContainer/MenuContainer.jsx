@@ -615,7 +615,7 @@ const jsonArray = [
         "price" : "400",
         "category" : "Desayunos",
         "description" : "Desayuno Mariposa",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "DesayunoMariposa.jpeg",
         "id":21
     }
     ,
