@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mariposa_Rest/static/css/main.352d8b22.css",
-    "main.js": "/Mariposa_Rest/static/js/main.7d9b9586.js",
+    "main.js": "/Mariposa_Rest/static/js/main.17194de5.js",
     "static/media/pablo-pacheco-D3Mag4BKqns-unsplash.jpg": "/Mariposa_Rest/static/media/pablo-pacheco-D3Mag4BKqns-unsplash.3cfe1d77fd42b9884982.jpg",
     "static/media/franja-image.png": "/Mariposa_Rest/static/media/franja-image.b135b5321640d48faa71.png",
     "static/media/image-2.jpeg": "/Mariposa_Rest/static/media/image-2.6d4c21df572dcc052941.jpeg",
@@ -48,7 +48,6 @@
     "static/media/pizza-queso-especial.jpeg": "/Mariposa_Rest/static/media/pizza-queso-especial.67e9592b411440662e4e.jpeg",
     "static/media/papasfritas.jpeg": "/Mariposa_Rest/static/media/papasfritas.8806f393be073c46a3a5.jpeg",
     "static/media/pizza-mariposa1.jpeg": "/Mariposa_Rest/static/media/pizza-mariposa1.1b9a058a4c8cc92b6b06.jpeg",
-    "static/media/refrescos-nacionales.jpg": "/Mariposa_Rest/static/media/refrescos-nacionales.268f415d4b2fa4232693.jpg",
     "static/media/category-desayunos.png": "/Mariposa_Rest/static/media/category-desayunos.68d9ae775221072bd738.png",
     "static/media/creps-miel.jpg": "/Mariposa_Rest/static/media/creps-miel.e6b394c9caecbb2f822c.jpg",
     "static/media/cerveza-importada.jpg": "/Mariposa_Rest/static/media/cerveza-importada.601753fd2ae494bf1730.jpg",
@@ -76,6 +75,7 @@
     "static/media/joyeria.jpeg": "/Mariposa_Rest/static/media/joyeria.7dcb050b261c99b0ce82.jpeg",
     "static/media/logomariposa.png": "/Mariposa_Rest/static/media/logomariposa.f96756dfc12b9e0ce7d6.png",
     "static/media/category-bebidas.png": "/Mariposa_Rest/static/media/category-bebidas.6a59d9c650ff64a737f6.png",
+    "static/media/refrescos-nacionales.jpg": "/Mariposa_Rest/static/media/refrescos-nacionales.36e2a1f7c69c4db4c8f1.jpg",
     "static/media/croquetas.jpeg": "/Mariposa_Rest/static/media/croquetas.40a3f9104d904cb8fea9.jpeg",
     "static/media/m-Frappuccino.avif": "/Mariposa_Rest/static/media/m-Frappuccino.284a532651fd56db4d8d.avif",
     "static/media/infusiones-te.jpg": "/Mariposa_Rest/static/media/infusiones-te.de26abded5601388cd7f.jpg",
@@ -94,10 +94,10 @@
     "static/media/sandwich-jamon.jpg": "/Mariposa_Rest/static/media/sandwich-jamon.3fe36edf5bf2b34c1c3a.jpg",
     "index.html": "/Mariposa_Rest/index.html",
     "main.352d8b22.css.map": "/Mariposa_Rest/static/css/main.352d8b22.css.map",
-    "main.7d9b9586.js.map": "/Mariposa_Rest/static/js/main.7d9b9586.js.map"
+    "main.17194de5.js.map": "/Mariposa_Rest/static/js/main.17194de5.js.map"
   },
   "entrypoints": [
     "static/css/main.352d8b22.css",
-    "static/js/main.7d9b9586.js"
+    "static/js/main.17194de5.js"
   ]
 }
