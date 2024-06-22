@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mariposa_Rest/static/css/main.352d8b22.css",
-    "main.js": "/Mariposa_Rest/static/js/main.492bc88b.js",
+    "main.js": "/Mariposa_Rest/static/js/main.7d9b9586.js",
     "static/media/pablo-pacheco-D3Mag4BKqns-unsplash.jpg": "/Mariposa_Rest/static/media/pablo-pacheco-D3Mag4BKqns-unsplash.3cfe1d77fd42b9884982.jpg",
     "static/media/franja-image.png": "/Mariposa_Rest/static/media/franja-image.b135b5321640d48faa71.png",
     "static/media/image-2.jpeg": "/Mariposa_Rest/static/media/image-2.6d4c21df572dcc052941.jpeg",
@@ -33,7 +33,6 @@
     "static/media/panes-category.png": "/Mariposa_Rest/static/media/panes-category.2be5ece2084b1a322ea5.png",
     "static/media/pinacolada.jpeg": "/Mariposa_Rest/static/media/pinacolada.881ec10254c67695fb08.jpeg",
     "static/media/spaguettis.jpeg": "/Mariposa_Rest/static/media/spaguettis.c55e889a3c28aa891ffd.jpeg",
-    "static/media/trago-mariposa.jpeg": "/Mariposa_Rest/static/media/trago-mariposa.5284b086be347d14526c.jpeg",
     "static/media/category-postres.png": "/Mariposa_Rest/static/media/category-postres.c67c1260f243ea080006.png",
     "static/media/sandwish-jyq.jpeg": "/Mariposa_Rest/static/media/sandwish-jyq.2ddd18384c49548186ef.jpeg",
     "static/media/pizza-mariposa.jpeg": "/Mariposa_Rest/static/media/pizza-mariposa.1d16d162ac0eac1e7418.jpeg",
@@ -71,6 +70,7 @@
     "static/media/colada.jpeg": "/Mariposa_Rest/static/media/colada.776d71af21112e7e4c85.jpeg",
     "static/media/coca-cola-leche.jpg": "/Mariposa_Rest/static/media/coca-cola-leche.ced57f57cf3e3fdbcb92.jpg",
     "static/media/cafe-bombon.jpg": "/Mariposa_Rest/static/media/cafe-bombon.f0e39b016b1968e590ad.jpg",
+    "static/media/trago-mariposa.jpeg": "/Mariposa_Rest/static/media/trago-mariposa.8692834e008761921c83.jpeg",
     "static/media/pizza-cebolla.jpeg": "/Mariposa_Rest/static/media/pizza-cebolla.beb26d8f9be5175dd077.jpeg",
     "static/media/chelada-nacional.jpg": "/Mariposa_Rest/static/media/chelada-nacional.b2b05de8d4582072997d.jpg",
     "static/media/joyeria.jpeg": "/Mariposa_Rest/static/media/joyeria.7dcb050b261c99b0ce82.jpeg",
@@ -94,10 +94,10 @@
     "static/media/sandwich-jamon.jpg": "/Mariposa_Rest/static/media/sandwich-jamon.3fe36edf5bf2b34c1c3a.jpg",
     "index.html": "/Mariposa_Rest/index.html",
     "main.352d8b22.css.map": "/Mariposa_Rest/static/css/main.352d8b22.css.map",
-    "main.492bc88b.js.map": "/Mariposa_Rest/static/js/main.492bc88b.js.map"
+    "main.7d9b9586.js.map": "/Mariposa_Rest/static/js/main.7d9b9586.js.map"
   },
   "entrypoints": [
     "static/css/main.352d8b22.css",
-    "static/js/main.492bc88b.js"
+    "static/js/main.7d9b9586.js"
   ]
 }
