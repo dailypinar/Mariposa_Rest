@@ -1037,7 +1037,7 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Flancia",
+        "name" : "Franela",
         "price" : "800",
         "category" : "Postres",
         "description" : "Franela",
