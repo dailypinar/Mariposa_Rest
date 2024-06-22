@@ -951,13 +951,13 @@ const jsonArray = [
         "price" : "450",
         "category" : "Tacos",
         "description" : "Tacos de Vegetales",
-        "imageUrl" : "tacos-vegetales.jpeg",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
     {
         "name" : "Tacos de pollo",
-        "price" : "600",
+        "price" : "650",
         "category" : "Tacos",
         "description" : "Tacos de pollo",
         "imageUrl" : "tacos-pollo.jpeg",
@@ -1040,7 +1040,7 @@ const jsonArray = [
         "name" : "Flancia",
         "price" : "800",
         "category" : "Postres",
-        "description" : "Flancia",
+        "description" : "Franela",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
