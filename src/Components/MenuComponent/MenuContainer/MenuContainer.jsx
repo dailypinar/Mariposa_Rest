@@ -161,7 +161,7 @@ const jsonArray = [
         "price" : "270",
         "category" : "Bebidas",
         "description" : "Refrescos de produccion nacional",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "refrescos-nacionales.jpg",
         "id" : 10
     },
     {
