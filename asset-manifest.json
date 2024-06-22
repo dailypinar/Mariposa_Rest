@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mariposa_Rest/static/css/main.352d8b22.css",
-    "main.js": "/Mariposa_Rest/static/js/main.2da7749a.js",
+    "main.js": "/Mariposa_Rest/static/js/main.492bc88b.js",
     "static/media/pablo-pacheco-D3Mag4BKqns-unsplash.jpg": "/Mariposa_Rest/static/media/pablo-pacheco-D3Mag4BKqns-unsplash.3cfe1d77fd42b9884982.jpg",
     "static/media/franja-image.png": "/Mariposa_Rest/static/media/franja-image.b135b5321640d48faa71.png",
     "static/media/image-2.jpeg": "/Mariposa_Rest/static/media/image-2.6d4c21df572dcc052941.jpeg",
@@ -23,6 +23,7 @@
     "static/media/donas.jpeg": "/Mariposa_Rest/static/media/donas.1266b7b315f708e87e1f.jpeg",
     "static/media/pizza-jamon.jpg": "/Mariposa_Rest/static/media/pizza-jamon.43c4f0213e332886b474.jpg",
     "static/media/borugasdeleche.jpeg": "/Mariposa_Rest/static/media/borugasdeleche.d24221224becff19ce22.jpeg",
+    "static/media/crepschocolate.jpeg": "/Mariposa_Rest/static/media/crepschocolate.605d83ce7e4e4cebb565.jpeg",
     "static/media/ensalada-fria.jpeg": "/Mariposa_Rest/static/media/ensalada-fria.d8b9a79aca266fca0195.jpeg",
     "static/media/cafebombonmariposa.jpeg": "/Mariposa_Rest/static/media/cafebombonmariposa.4ca68ceae23ef9a70eab.jpeg",
     "static/media/sandwich-jamon-queso.jpeg": "/Mariposa_Rest/static/media/sandwich-jamon-queso.6930bed25bdcc0e1b10b.jpeg",
@@ -39,7 +40,6 @@
     "static/media/category-cocteles.png": "/Mariposa_Rest/static/media/category-cocteles.3c39237bb2457e85330e.png",
     "static/media/category-infusiones.png": "/Mariposa_Rest/static/media/category-infusiones.464af9bd5a8bb3ddad4d.png",
     "static/media/batido-helado-panetela.jpeg": "/Mariposa_Rest/static/media/batido-helado-panetela.526d6fc3c82cd80ce55c.jpeg",
-    "static/media/crepschocolate.jpeg": "/Mariposa_Rest/static/media/crepschocolate.ad65923c3bee2634cc90.jpeg",
     "static/media/cafe-espreso.jpg": "/Mariposa_Rest/static/media/cafe-espreso.a95d17c3398b47b729c9.jpg",
     "static/media/chicharritas.jpg": "/Mariposa_Rest/static/media/chicharritas.1f1a763df7d9e1c2a067.jpg",
     "static/media/EntremesQueso.jpeg": "/Mariposa_Rest/static/media/EntremesQueso.209e8e8263efec5957e9.jpeg",
@@ -94,10 +94,10 @@
     "static/media/sandwich-jamon.jpg": "/Mariposa_Rest/static/media/sandwich-jamon.3fe36edf5bf2b34c1c3a.jpg",
     "index.html": "/Mariposa_Rest/index.html",
     "main.352d8b22.css.map": "/Mariposa_Rest/static/css/main.352d8b22.css.map",
-    "main.2da7749a.js.map": "/Mariposa_Rest/static/js/main.2da7749a.js.map"
+    "main.492bc88b.js.map": "/Mariposa_Rest/static/js/main.492bc88b.js.map"
   },
   "entrypoints": [
     "static/css/main.352d8b22.css",
-    "static/js/main.2da7749a.js"
+    "static/js/main.492bc88b.js"
   ]
 }
