@@ -1028,15 +1028,6 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Creps de Chocolate",
-        "price" : "300",
-        "category" : "Postres",
-        "description" : "Creps de Chocolate",
-        "imageUrl" : "crepschocolate.jpeg",
-        "id":21
-    }
-    ,
-    {
         "name" : "Creps de Miel",
         "price" : "200",
         "category" : "Postres",
