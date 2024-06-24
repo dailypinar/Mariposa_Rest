@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mariposa_Rest/static/css/main.352d8b22.css",
-    "main.js": "/Mariposa_Rest/static/js/main.4804bd01.js",
+    "main.js": "/Mariposa_Rest/static/js/main.d999b487.js",
     "static/media/pablo-pacheco-D3Mag4BKqns-unsplash.jpg": "/Mariposa_Rest/static/media/pablo-pacheco-D3Mag4BKqns-unsplash.3cfe1d77fd42b9884982.jpg",
     "static/media/franja-image.png": "/Mariposa_Rest/static/media/franja-image.b135b5321640d48faa71.png",
     "static/media/ensaladapng.png": "/Mariposa_Rest/static/media/ensaladapng.7f9d8856af255dfede9a.png",
@@ -20,6 +20,7 @@
     "static/media/panes.png": "/Mariposa_Rest/static/media/panes.e95b56891093265b05a0.png",
     "static/media/tacos-pollo.jpeg": "/Mariposa_Rest/static/media/tacos-pollo.11324c9e209970b3d4bb.jpeg",
     "static/media/donas.jpeg": "/Mariposa_Rest/static/media/donas.1266b7b315f708e87e1f.jpeg",
+    "static/media/franela.jpeg": "/Mariposa_Rest/static/media/franela.6308ee1740d60978559a.jpeg",
     "static/media/pizza-jamon.jpg": "/Mariposa_Rest/static/media/pizza-jamon.43c4f0213e332886b474.jpg",
     "static/media/borugasdeleche.jpeg": "/Mariposa_Rest/static/media/borugasdeleche.d24221224becff19ce22.jpeg",
     "static/media/crepschocolate.jpeg": "/Mariposa_Rest/static/media/crepschocolate.605d83ce7e4e4cebb565.jpeg",
@@ -94,10 +95,10 @@
     "static/media/sandwich-jamon.jpg": "/Mariposa_Rest/static/media/sandwich-jamon.3fe36edf5bf2b34c1c3a.jpg",
     "index.html": "/Mariposa_Rest/index.html",
     "main.352d8b22.css.map": "/Mariposa_Rest/static/css/main.352d8b22.css.map",
-    "main.4804bd01.js.map": "/Mariposa_Rest/static/js/main.4804bd01.js.map"
+    "main.d999b487.js.map": "/Mariposa_Rest/static/js/main.d999b487.js.map"
   },
   "entrypoints": [
     "static/css/main.352d8b22.css",
-    "static/js/main.4804bd01.js"
+    "static/js/main.d999b487.js"
   ]
 }
