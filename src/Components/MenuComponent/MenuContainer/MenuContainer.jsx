@@ -1041,7 +1041,7 @@ const jsonArray = [
         "price" : "800",
         "category" : "Postres",
         "description" : "Franela",
-        "imageUrl" : "logomariposa.png",
+        "imageUrl" : "franela.jpeg",
         "id":21
     }
     ,
