@@ -174,7 +174,7 @@ const jsonArray = [
     },
     {
         "name" : "Limonada",
-        "price" : "200",
+        "price" : "270",
         "category" : "Bebidas",
         "description" : "Limonada Natural",
         "imageUrl" : "limonada.jpg",
@@ -449,7 +449,7 @@ const jsonArray = [
     ,
     {
         "name" : "Tostones de Atún",
-        "price" : "450",
+        "price" : "500",
         "category" : "Entrantes y Aditivos",
         "description" : "Tostones de Atún",
         "imageUrl" : "logomariposa.png",
@@ -757,7 +757,7 @@ const jsonArray = [
     ,
     {
         "name" : "Pizza de Atún",
-        "price" : "700",
+        "price" : "800",
         "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de Atún",
         "imageUrl" : "logomariposa.png",
@@ -901,7 +901,7 @@ const jsonArray = [
     ,
     {
         "name" : "Hamburguesa mariposa",
-        "price" : "1000",
+        "price" : "1500",
         "category" : "Hamburguesas y Sandwish",
         "description" : "Hamburguesa mariposa",
         "imageUrl" : "hamburguesa-mariposa (2).jpeg",
