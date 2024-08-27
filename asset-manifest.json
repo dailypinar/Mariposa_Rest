@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mariposa_Rest/static/css/main.352d8b22.css",
-    "main.js": "/Mariposa_Rest/static/js/main.4eade3ea.js",
+    "main.js": "/Mariposa_Rest/static/js/main.d647af4a.js",
     "static/media/pablo-pacheco-D3Mag4BKqns-unsplash.jpg": "/Mariposa_Rest/static/media/pablo-pacheco-D3Mag4BKqns-unsplash.3cfe1d77fd42b9884982.jpg",
     "static/media/franja-image.png": "/Mariposa_Rest/static/media/franja-image.b135b5321640d48faa71.png",
     "static/media/ensaladapng.png": "/Mariposa_Rest/static/media/ensaladapng.7f9d8856af255dfede9a.png",
@@ -95,10 +95,10 @@
     "static/media/sandwich-jamon.jpg": "/Mariposa_Rest/static/media/sandwich-jamon.3fe36edf5bf2b34c1c3a.jpg",
     "index.html": "/Mariposa_Rest/index.html",
     "main.352d8b22.css.map": "/Mariposa_Rest/static/css/main.352d8b22.css.map",
-    "main.4eade3ea.js.map": "/Mariposa_Rest/static/js/main.4eade3ea.js.map"
+    "main.d647af4a.js.map": "/Mariposa_Rest/static/js/main.d647af4a.js.map"
   },
   "entrypoints": [
     "static/css/main.352d8b22.css",
-    "static/js/main.4eade3ea.js"
+    "static/js/main.d647af4a.js"
   ]
 }
