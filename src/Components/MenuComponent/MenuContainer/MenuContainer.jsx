@@ -78,7 +78,7 @@ const jsonArray = [
     },
     {
         "name" : "Agua natural",
-        "price" : "150",
+        "price" : "200",
         "category" : "Bebidas",
         "description" : "Botella de agua natural de 500ml",
         "imageUrl" : "agual-500ml.jpg",
@@ -150,7 +150,7 @@ const jsonArray = [
     },
     {
         "name" : "Malteada",
-        "price" : "470",
+        "price" : "500",
         "category" : "Bebidas",
         "description" : "Malteda",
         "imageUrl" : "malteada.jpg",
@@ -173,8 +173,17 @@ const jsonArray = [
         "id" : 10
     },
     {
-        "name" : "Limonada",
-        "price" : "270",
+        "name" : "Malteada con Bucanero",
+        "price" : "550",
+        "category" : "Bebidas",
+        "description" : "Malteada con Bucanero",
+        "imageUrl" : "logomariposa.png",
+        "id" : 10
+    },
+
+    {
+        "name" : "Limonada Natural",
+        "price" : "350",
         "category" : "Bebidas",
         "description" : "Limonada Natural",
         "imageUrl" : "limonada.jpg",
@@ -190,7 +199,7 @@ const jsonArray = [
     },
     {
         "name" : "Cerveza Nacional",
-        "price" : "320",
+        "price" : "360",
         "category" : "Cocteles",
         "description" : "Cervezas Nacionales",
         "imageUrl" : "logomariposa.png",
@@ -237,7 +246,7 @@ const jsonArray = [
         "id":15
     },
     {
-        "name" : "Pinna Colada sin alcohol",
+        "name" : "Piña Colada sin alcohol",
         "price" : "360",
         "category" : "Cocteles",
         "description" : "Pinna Colada sin alcohol",
@@ -245,7 +254,7 @@ const jsonArray = [
         "id":16
     },
     {
-        "name" : "Pinna Colada con alcohol",
+        "name" : "Piña Colada con alcohol",
         "price" : "400",
         "category" : "Cocteles",
         "description" : "Pinna Colada con alcohol",
@@ -254,10 +263,10 @@ const jsonArray = [
     },
 
     {
-        "name" : "Trago Mariposa",
-        "price" : "350",
+        "name" : "Trago MARIPOSA",
+        "price" : "550",
         "category" : "Cocteles",
-        "description" : "Trago Mariposa ( Especial de la casa) ",
+        "description" : "Trago MARIPOSA ( Especial de la casa) ",
         "imageUrl" : "trago-mariposa.jpeg",
         "id": 17
     },
@@ -274,6 +283,38 @@ const jsonArray = [
         "price" : "400",
         "category" : "Cocteles",
         "description" : "Cuba Libre",
+        "imageUrl" : "logomariposa.png",
+        "id":16
+    },
+    {
+        "name" : "Carpiriña",
+        "price" : "500",
+        "category" : "Cocteles",
+        "description" : "Carpiriña",
+        "imageUrl" : "logomariposa.png",
+        "id":16
+    },
+    {
+        "name" : "Carpirosca",
+        "price" : "500",
+        "category" : "Cocteles",
+        "description" : "Carpirosca",
+        "imageUrl" : "logomariposa.png",
+        "id":16
+    },
+    {
+        "name" : "Carpirissima",
+        "price" : "500",
+        "category" : "Cocteles",
+        "description" : "Carpirissima",
+        "imageUrl" : "logomariposa.png",
+        "id":16
+    },
+    {
+        "name" : "Canchanchara",
+        "price" : "500",
+        "category" : "Cocteles",
+        "description" : "Canchanchara",
         "imageUrl" : "logomariposa.png",
         "id":16
     },
@@ -305,7 +346,7 @@ const jsonArray = [
     ,
     {
         "name" : "Café Frapucciono ",
-        "price" : "250",
+        "price" : "400",
         "category" : "Infusiones-Cafe-Te",
         "description" : "Café Frapucciono ",
         "imageUrl" : "logomariposa.png",
@@ -341,7 +382,7 @@ const jsonArray = [
     ,
     {
         "name" : "Entremes de Queso",
-        "price" : "650",
+        "price" : "700",
         "category" : "Entrantes y Aditivos",
         "description" : "Entremes de Queso",
         "imageUrl" : "EntremesQueso.jpeg",
@@ -377,7 +418,7 @@ const jsonArray = [
     ,
     {
         "name" : "Chicharritas de platano",
-        "price" : "180",
+        "price" : "200",
         "category" : "Entrantes y Aditivos",
         "description" : "Chicharritas de platano",
         "imageUrl" : "chicharritas.jpg",
@@ -404,7 +445,7 @@ const jsonArray = [
     ,
     {
         "name" : "Tostones de Jamón",
-        "price" : "270",
+        "price" : "350",
         "category" : "Entrantes y Aditivos",
         "description" : "Tostones de Jamón",
         "imageUrl" : "logomariposa.png",
@@ -413,7 +454,7 @@ const jsonArray = [
     ,
     {
         "name" : "Tostones de jamon y queso",
-        "price" : "430",
+        "price" : "500",
         "category" : "Entrantes y Aditivos",
         "description" : "Tostones de Jamon y queso",
         "imageUrl" : "tostones-jamon-queso.jpg",
@@ -444,6 +485,15 @@ const jsonArray = [
         "category" : "Entrantes y Aditivos",
         "description" : "Picadera de la casa ( Fritas, fajitas de pollo, croquetas, jamon, queso, chorizo, salchicha, aceituna, salsas..",
         "imageUrl" : "picadera-mariposa.jpeg",
+        "id":27
+    }
+    ,
+    {
+        "name" : "Quesadilla",
+        "price" : "400",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Quesadilla",
+        "imageUrl" : "logomariposa.png",
         "id":27
     }
     ,
@@ -498,6 +548,15 @@ const jsonArray = [
         "category" : "Entrantes y Aditivos",
         "description" : "Papas Fritas",
         "imageUrl" : "papasfritas.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pollo Frito con Papas(Aditivo)",
+        "price" : "500",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Pollo Frito con Papas(Aditivo)",
+        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -648,7 +707,7 @@ const jsonArray = [
     ,
     {
         "name" : "Pizza de Jamón ",
-        "price" : "480",
+        "price" : "500",
         "category" : "Pizzas y Spaguettis",
         "description" : "Pizza de Jamón ",
         "imageUrl" : "pizza-jamonyquesoM.jpeg",
@@ -666,7 +725,7 @@ const jsonArray = [
     ,
     {
         "name" : "Pizza Mixta ",
-        "price" : "600",
+        "price" : "750",
         "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Mixta",
         "imageUrl" : "pizza-mixta.jpeg",
@@ -709,31 +768,13 @@ const jsonArray = [
         "id":21
     }
     ,
-    {
-        "name" : "Pizza de carne de res",
-        "price" : "800",
-        "category" : "Pizzas y Spaguettis",
-        "description" : "Pizza de carne de res",
-        "imageUrl" : "logomariposa.png",
-        "id":21
-    }
-    ,
-    
+        
     {
         "name" : "Pizza Especial de Queso",
         "price" : "600",
         "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Especial de Queso",
         "imageUrl" : "pizza-queso-especial.jpeg",
-        "id":21
-    }
-    ,
-    {
-        "name" : "Pizza de Jamón Pierna",
-        "price" : "680",
-        "category" : "Pizzas y Spaguettis",
-        "description" : "Pizza de Jamón Pierna",
-        "imageUrl" : "logomariposa.png",
         "id":21
     }
     ,
@@ -772,16 +813,7 @@ const jsonArray = [
         "imageUrl" : "logomariposa.png",
         "id":21
     }
-    ,
-    {
-        "name" : "Pizza de Ropa Vieja",
-        "price" : "1170",
-        "category" : "Pizzas y Spaguettis",
-        "description" : "Pizza de Ropa Vieja ",
-        "imageUrl" : "logomariposa.png",
-        "id":21
-    }
-    ,
+     ,
     {
         "name" : "Pizza con Piña",
         "price" : "500",
@@ -793,7 +825,7 @@ const jsonArray = [
     ,
     {
         "name" : "Pizza Napolitana",
-        "price" : "380",
+        "price" : "400",
         "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Napolitana",
         "imageUrl" : "pizza-queso-especial.jpeg",
@@ -805,6 +837,24 @@ const jsonArray = [
         "price" : "2500",
         "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Familiar",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza de Chorizo",
+        "price" : "500",
+        "category" : "Pizzas y Spaguettis",
+        "description" : "Pizza de Chorizo",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza Familar de Atún",
+        "price" : "2600",
+        "category" : "Pizzas y Spaguettis",
+        "description" : "Pizza Familiar de Atún",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
@@ -846,28 +896,10 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Spaguettis con Ropa Vieja",
-        "price" : "1700",
-        "category" : "Pizzas y Spaguettis",
-        "description" : "Spaguettis con Ropa Vieja",
-        "imageUrl" : "logomariposa.png",
-        "id":21
-    }
-    ,
-    {
         "name" : "Hamburguesa Sencilla",
         "price" : "400",
         "category" : "Hamburguesas y Sandwish",
         "description" : "Hamburguesa Sencilla",
-        "imageUrl" : "logomariposa.png",
-        "id":21
-    }
-    ,
-    {
-        "name" : "Hamburguesa con queso",
-        "price" : "550",
-        "category" : "Hamburguesas y Sandwish",
-        "description" : "Hamburguesa con queso",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
@@ -936,17 +968,6 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Hot Dog",
-        "price" : "250",
-        "category" : "Hamburguesas y Sandwish",
-        "description" : "Hot Dog",
-        "imageUrl" : "hot-dog.jpg",
-        "id":21
-    }
-
-
-    ,
-    {
         "name" : "Tacos de Vegetales",
         "price" : "450",
         "category" : "Tacos",
@@ -966,7 +987,7 @@ const jsonArray = [
     ,
     {
         "name" : "Taco de Res",
-        "price" : "750",
+        "price" : "850",
         "category" : "Tacos",
         "description" : "Taco de Res",
         "imageUrl" : "tacos-res.png",
@@ -974,10 +995,10 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Taco de Carne de Puerco",
+        "name" : "Taco de Cerdo",
         "price" : "900",
         "category" : "Tacos",
-        "description" : "Taco de Carne de Puerco",
+        "description" : "Taco de Cerdo",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
@@ -1023,6 +1044,15 @@ const jsonArray = [
         "price" : "250",
         "category" : "Postres",
         "description" : "Creps de Leche",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Creps de Chocolate",
+        "price" : "300",
+        "category" : "Postres",
+        "description" : "Creps de Chocolate",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
