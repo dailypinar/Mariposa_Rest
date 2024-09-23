@@ -399,6 +399,15 @@ const jsonArray = [
     }
     ,
     {
+        "name" : "Pollo empanizado",
+        "price" : "900",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Entremes de Jamón",
+        "imageUrl" : "Pollo empanizado.jpeg",
+        "id":21
+    }
+    ,
+    {
         "name" : "Malangas fritas",
         "price" : "300",
         "category" : "Entrantes y Aditivos",
@@ -738,6 +747,15 @@ const jsonArray = [
         "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Hawaiana",
         "imageUrl" : "pizza-hawaina.jpg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza De Langosta",
+        "price" : "800",
+        "category" : "Pizzas y Spaguettis",
+        "description" : "Pizza de Langosta",
+        "imageUrl" : "PizzadeLangosta.jpeg",
         "id":21
     }
     ,
