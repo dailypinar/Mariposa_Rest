@@ -370,27 +370,8 @@ const jsonArray = [
         "imageUrl" : "infusiones-te.jpg",
         "id":20
     }
-    ,
-    
-    {
-        "name" : "Entremes de Queso",
-        "price" : "700",
-        "category" : "Entrantes y Aditivos",
-        "description" : "Entremes de Queso",
-        "imageUrl" : "EntremesQueso.jpeg",
-        "id":21
-    }
-    ,
-    {
-        "name" : "Pollo empanizado",
-        "price" : "900",
-        "category" : "Entrantes y Aditivos",
-        "description" : "Entremes de Jamón",
-        "imageUrl" : "Pollo empanizado.jpeg",
-        "id":21
-    }
-    ,
-    {
+     ,
+     {
         "name" : "Malangas fritas",
         "price" : "300",
         "category" : "Entrantes y Aditivos",
@@ -425,15 +406,115 @@ const jsonArray = [
         "imageUrl" : "croquetas.jpeg",
         "id":23
     }
+    ,
+    {
+        "name" : "Papas Fritas",
+        "price" : "600",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Papas Fritas",
+        "imageUrl" : "papasfritas.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Papas Bravas",
+        "price" : "450",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Papas Bravas",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+   
+    {
+        "name" : "Empanaditas",
+        "price" : "300",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Empanaditas",
+        "imageUrl" : "empanaditas.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Ensalada Fría",
+        "price" : "500",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Ensalada Fría",
+        "imageUrl" : "ensaladapng.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Fajitas de Pollo",
+        "price" : "750",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Fajitas de Pollo",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pollo Empanizado",
+        "price" : "1000",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Pollo Empanizado",
+        "imageUrl" : "Pollo empanizado.jpeg",
+        "id":21
+    }
     
     ,
     {
+        "name" : "Entremes de Queso",
+        "price" : "700",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Entremes de Queso",
+        "imageUrl" : "EntremesQueso.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Entremes de Jamón",
+        "price" : "400",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Entremes de Jamón",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+      ,
+     {
         "name" : "Tostones de jamon y queso",
         "price" : "500",
         "category" : "Entrantes y Aditivos",
         "description" : "Tostones de Jamon y queso",
         "imageUrl" : "tostones-jamon-queso.jpg",
         "id":24
+    }
+    ,
+    {
+        "name" : "Tostones de Queso",
+        "price" : "400",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Tostones de Queso",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Tostones de Jamón",
+        "price" : "350",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Tostones de Jamón",
+        "imageUrl" : "logomariposa.png",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Tostones de Atún",
+        "price" : "500",
+        "category" : "Entrantes y Aditivos",
+        "description" : "Tostones de Atún",
+        "imageUrl" : "logomariposa.png",
+        "id":21
     }
     ,
     {
@@ -464,37 +545,10 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Empanaditas",
-        "price" : "300",
-        "category" : "Entrantes y Aditivos",
-        "description" : "Empanaditas",
-        "imageUrl" : "empanaditas.jpeg",
-        "id":21
-    }
-    ,
-    {
-        "name" : "Ensalada Fría",
+        "name" : "Pollo Frito con Papas(Aditivo)",
         "price" : "500",
         "category" : "Entrantes y Aditivos",
-        "description" : "Ensalada Fría",
-        "imageUrl" : "ensaladapng.png",
-        "id":21
-    }
-    ,
-    {
-        "name" : "Papas Fritas",
-        "price" : "600",
-        "category" : "Entrantes y Aditivos",
-        "description" : "Papas Fritas",
-        "imageUrl" : "papasfritas.jpeg",
-        "id":21
-    }
-    ,
-    {
-        "name" : "Entremes de Jamón",
-        "price" : "400",
-        "category" : "Entrantes y Aditivos",
-        "description" : "Entremes de Jamón",
+        "description" : "Pollo Frito con Papas(Aditivo)",
         "imageUrl" : "logomariposa.png",
         "id":21
     }
@@ -509,24 +563,6 @@ const jsonArray = [
     }
     ,
     {
-        "name" : "Tostones de Queso",
-        "price" : "400",
-        "category" : "Entrantes y Aditivos",
-        "description" : "Tostones de Queso",
-        "imageUrl" : "logomariposa.png",
-        "id":21
-    }
-    ,
-    {
-        "name" : "Tostones de Jamón",
-        "price" : "350",
-        "category" : "Entrantes y Aditivos",
-        "description" : "Tostones de Jamón",
-        "imageUrl" : "logomariposa.png",
-        "id":21
-    }
-    ,
-    {
         "name" : "Quesadilla",
         "price" : "400",
         "category" : "Entrantes y Aditivos",
@@ -534,45 +570,7 @@ const jsonArray = [
         "imageUrl" : "logomariposa.png",
         "id":27
     }
-    ,
-    {
-        "name" : "Tostones de Atún",
-        "price" : "500",
-        "category" : "Entrantes y Aditivos",
-        "description" : "Tostones de Atún",
-        "imageUrl" : "logomariposa.png",
-        "id":21
-    }
-    
-    ,
-    {
-        "name" : "Papas Bravas",
-        "price" : "450",
-        "category" : "Entrantes y Aditivos",
-        "description" : "Papas Bravas",
-        "imageUrl" : "logomariposa.png",
-        "id":21
-    }
-    ,
-    {
-        "name" : "Fajitas de Pollo",
-        "price" : "750",
-        "category" : "Entrantes y Aditivos",
-        "description" : "Fajitas de Pollo",
-        "imageUrl" : "logomariposa.png",
-        "id":21
-    }
-    
-    ,
-    {
-        "name" : "Pollo Frito con Papas(Aditivo)",
-        "price" : "500",
-        "category" : "Entrantes y Aditivos",
-        "description" : "Pollo Frito con Papas(Aditivo)",
-        "imageUrl" : "logomariposa.png",
-        "id":21
-    }
-    ,
+     ,
     {
         "name" : "Queso Gouda(Aditivo)",
         "price" : "500",
@@ -680,7 +678,6 @@ const jsonArray = [
         "imageUrl" : "logomariposa.png",
         "id":21
     }
-
     ,
     {
         "name" : "Desayuno Mariposa",
@@ -714,6 +711,15 @@ const jsonArray = [
         "price" : "400",
         "category" : "Pizzas y Spaguettis",
         "description" : "Pizza Napolitana",
+        "imageUrl" : "pizza-queso-especial.jpeg",
+        "id":21
+    }
+    ,
+    {
+        "name" : "Pizza Especial de Queso",
+        "price" : "600",
+        "category" : "Pizzas y Spaguettis",
+        "description" : "Pizza Especial de Queso",
         "imageUrl" : "pizza-queso-especial.jpeg",
         "id":21
     }
@@ -799,16 +805,6 @@ const jsonArray = [
         "id":21
     }
     ,
-        
-    {
-        "name" : "Pizza Especial de Queso",
-        "price" : "600",
-        "category" : "Pizzas y Spaguettis",
-        "description" : "Pizza Especial de Queso",
-        "imageUrl" : "pizza-queso-especial.jpeg",
-        "id":21
-    }
-    ,
     {
         "name" : "Pizza de Pollo",
         "price" : "700",
@@ -853,7 +849,6 @@ const jsonArray = [
         "imageUrl" : "logomariposa.png",
         "id":21
     }
-    
     ,
     {
         "name" : "Pizza Familar",
