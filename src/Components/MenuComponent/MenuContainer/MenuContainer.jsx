@@ -1113,7 +1113,7 @@ const jsonArray = [
     ,
     {
         "name" : "Pan de Hamburguesa",
-        "price" : "50",
+        "price" : "40",
         "category" : "Panes",
         "description" : "Pan de Hamburguesa",
         "imageUrl" : "pan-hamburguesa.jpeg",
@@ -1122,7 +1122,7 @@ const jsonArray = [
     ,
     {
         "name" : "Panes de Bolsa",
-        "price" : "150",
+        "price" : "120",
         "category" : "Panes",
         "description" : "Panes de Bolsa",
         "imageUrl" : "panes.png",
